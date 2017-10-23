@@ -1,0 +1,1680 @@
+10, 10, 2017 2:08:12 AM net.didion.jwnl.util.MessageLog doLog
+Installing Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@c4437c4
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/state.xml
+617
+ 617
+.*
+finished, finished, #iter = 16
+value value = -0.309276
+= = 169
+....*
+finished, finished, #iter = 44
+value value = -1.044589
+= = 298
+....*
+finished, finished, #iter = 43
+value value = -0.927279
+= = 281
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/complete.xml
+42
+ 42
+*.
+finished, finished, #iter = 10
+value value = -0.027327
+= = 16
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/see.xml
+158
+ 158
+.*
+finished, finished, #iter = 17
+value value = -0.491958
+= = 138
+.*
+finished, finished, #iter = 18
+value value = -0.737594
+= = 152
+.*
+finished, finished, #iter = 12
+value value = -0.100859
+= = 43
+.*
+finished, finished, #iter = 18
+value value = -0.573431
+= = 129
+.*
+finished, finished, #iter = 14
+value value = -0.164926
+= = 87
+.*
+finished, finished, #iter = 11
+value value = -0.062324
+= = 45
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/space.xml
+67
+ 67
+.*
+finished, finished, #iter = 16
+value value = -0.193652
+= = 60
+.*
+finished, finished, #iter = 15
+value value = -0.151108
+= = 60
+.*
+finished, finished, #iter = 12
+value value = -0.044755
+= = 39
+*
+finished, finished, #iter = 9
+value value = -0.031400
+= = 26
+.*
+finished, finished, #iter = 12
+value value = -0.027391
+= = 35
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/position.xml
+268
+ 268
+..*
+finished, finished, #iter = 28
+value value = -0.745666
+= = 189
+.*
+finished, finished, #iter = 18
+value value = -0.510220
+= = 162
+..**
+finished, finished, #iter = 23
+value value = -0.468963
+= = 160
+..*
+finished, finished, #iter = 26
+value value = -0.607683
+= = 171
+.*
+finished, finished, #iter = 15
+value value = -0.163488
+= = 121
+.*.
+finished, finished, #iter = 20
+value value = -0.176751
+= = 108
+.*
+finished, finished, #iter = 11
+value value = -0.050629
+= = 30
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/prove.xml
+49
+ 49
+.
+finished, finished, #iter = 14
+value value = -0.226325
+= = 49
+.
+finished, finished, #iter = 18
+value value = -0.206575
+= = 48
+.**
+finished, finished, #iter = 13
+value value = -0.031303
+= = 23
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/authority.xml
+90
+ 90
+.*
+finished, finished, #iter = 11
+value value = -0.079258
+= = 73
+.*
+finished, finished, #iter = 14
+value value = -0.129001
+= = 68
+.*
+finished, finished, #iter = 11
+value value = -0.027552
+= = 30
+.*
+finished, finished, #iter = 12
+value value = -0.058288
+= = 35
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/start.xml
+214
+ 214
+.*
+finished, finished, #iter = 17
+value value = -0.411089
+= = 141
+.*.
+finished, finished, #iter = 20
+value value = -1.060206
+= = 195
+.*
+finished, finished, #iter = 18
+value value = -0.558118
+= = 140
+.*
+finished, finished, #iter = 18
+value value = -0.423377
+= = 111
+.*
+finished, finished, #iter = 13
+value value = -0.079519
+= = 63
+.*
+finished, finished, #iter = 13
+value value = -0.046095
+= = 46
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/approve.xml
+53
+ 53
+*.
+finished, finished, #iter = 10
+value value = -0.041511
+= = 31
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/examine.xml
+26
+ 26
+.
+finished, finished, #iter = 10
+value value = -0.090578
+= = 26
+*
+finished, finished, #iter = 7
+value value = -0.018538
+= = 17
+.
+finished, finished, #iter = 10
+value value = -0.087322
+= = 26
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/allow.xml
+108
+ 108
+.*
+finished, finished, #iter = 16
+value value = -0.172122
+= = 69
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/receive.xml
+136
+ 136
+.*
+finished, finished, #iter = 15
+value value = -0.137593
+= = 69
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/promise.xml
+50
+ 50
+.*
+finished, finished, #iter = 11
+value value = -0.114334
+= = 39
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/claim.xml
+54
+ 54
+.*
+finished, finished, #iter = 13
+value value = -0.095753
+= = 37
+.*
+finished, finished, #iter = 12
+value value = -0.113366
+= = 43
+*.
+finished, finished, #iter = 10
+value value = -0.023142
+= = 26
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/order.xml
+346
+ 346
+.*
+finished, finished, #iter = 15
+value value = -0.339805
+= = 150
+.*
+finished, finished, #iter = 18
+value value = -0.433096
+= = 170
+.*
+finished, finished, #iter = 11
+value value = -0.051960
+= = 70
+.*
+finished, finished, #iter = 13
+value value = -0.029424
+= = 35
+.*
+finished, finished, #iter = 14
+value value = -0.105886
+= = 89
+*.
+finished, finished, #iter = 10
+value value = -0.067987
+= = 70
+.*
+finished, finished, #iter = 13
+value value = -0.091454
+= = 68
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/care.xml
+69
+ 69
+..*
+finished, finished, #iter = 29
+value value = -0.240847
+= = 59
+..*
+finished, finished, #iter = 29
+value value = -0.188494
+= = 51
+.*
+finished, finished, #iter = 15
+value value = -0.100914
+= = 47
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/come.xml
+186
+ 186
+.**
+finished, finished, #iter = 17
+value value = -0.359777
+= = 130
+.*
+finished, finished, #iter = 17
+value value = -0.622081
+= = 155
+.*
+finished, finished, #iter = 14
+value value = -0.164152
+= = 95
+.*
+finished, finished, #iter = 17
+value value = -0.491200
+= = 149
+.*
+finished, finished, #iter = 19
+value value = -0.365353
+= = 126
+.*
+finished, finished, #iter = 14
+value value = -0.255694
+= = 116
+.*
+finished, finished, #iter = 16
+value value = -0.086804
+= = 63
+.*
+finished, finished, #iter = 14
+value value = -0.091619
+= = 71
+.*
+finished, finished, #iter = 13
+value value = -0.071688
+= = 69
+.*
+finished, finished, #iter = 11
+value value = -0.081516
+= = 63
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/bill.xml
+404
+ 404
+.*
+finished, finished, #iter = 18
+value value = -0.401760
+= = 152
+.*
+finished, finished, #iter = 15
+value value = -0.364504
+= = 146
+.*
+finished, finished, #iter = 19
+value value = -0.241921
+= = 127
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/move.xml
+270
+ 270
+.*
+finished, finished, #iter = 16
+value value = -0.275122
+= = 140
+.*
+finished, finished, #iter = 11
+value value = -0.085658
+= = 74
+.*
+finished, finished, #iter = 12
+value value = -0.094706
+= = 85
+.*
+finished, finished, #iter = 16
+value value = -0.114678
+= = 84
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/raise.xml
+147
+ 147
+.*.
+finished, finished, #iter = 20
+value value = -0.378078
+= = 109
+.*
+finished, finished, #iter = 16
+value value = -0.236689
+= = 95
+.*
+finished, finished, #iter = 16
+value value = -0.281537
+= = 88
+.*
+finished, finished, #iter = 18
+value value = -0.241935
+= = 81
+.*
+finished, finished, #iter = 13
+value value = -0.170148
+= = 83
+.*
+finished, finished, #iter = 14
+value value = -0.137876
+= = 75
+.*
+finished, finished, #iter = 11
+value value = -0.059135
+= = 49
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/capital.xml
+278
+ 278
+.*
+finished, finished, #iter = 15
+value value = -0.200679
+= = 109
+.*
+finished, finished, #iter = 15
+value value = -0.180758
+= = 99
+*
+finished, finished, #iter = 5
+value value = -0.014287
+= = 21
+.*
+finished, finished, #iter = 11
+value value = -0.030224
+= = 38
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/attempt.xml
+40
+ 40
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/base.xml
+92
+ 92
+.*
+finished, finished, #iter = 15
+value value = -0.162777
+= = 75
+.*
+finished, finished, #iter = 16
+value value = -0.241287
+= = 81
+.*
+finished, finished, #iter = 13
+value value = -0.083009
+= = 47
+.*
+finished, finished, #iter = 15
+value value = -0.132441
+= = 70
+*
+finished, finished, #iter = 9
+value value = -0.024766
+= = 28
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/rush.xml
+28
+ 28
+.*
+finished, finished, #iter = 12
+value value = -0.041163
+= = 25
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/power.xml
+251
+ 251
+.**
+finished, finished, #iter = 19
+value value = -0.235338
+= = 101
+..**
+finished, finished, #iter = 24
+value value = -0.669909
+= = 167
+.*
+finished, finished, #iter = 18
+value value = -0.491100
+= = 159
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/feel.xml
+347
+ 347
+...*
+finished, finished, #iter = 32
+value value = -1.003469
+= = 218
+..*.*
+finished, finished, #iter = 31
+value value = -1.194912
+= = 249
+.*.
+finished, finished, #iter = 20
+value value = -0.220871
+= = 87
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/report.xml
+128
+ 128
+.*
+finished, finished, #iter = 16
+value value = -0.132569
+= = 66
+.**
+finished, finished, #iter = 16
+value value = -0.060720
+= = 46
+.*
+finished, finished, #iter = 15
+value value = -0.085984
+= = 52
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/people.xml
+754
+ 754
+..*.
+finished, finished, #iter = 30
+value value = -0.944231
+= = 298
+..*.*
+finished, finished, #iter = 31
+value value = -0.792715
+= = 264
+.*
+finished, finished, #iter = 19
+value value = -0.155656
+= = 142
+.*
+finished, finished, #iter = 17
+value value = -0.173360
+= = 158
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/area.xml
+326
+ 326
+.*
+finished, finished, #iter = 13
+value value = -0.167664
+= = 106
+..*
+finished, finished, #iter = 25
+value value = -0.771593
+= = 201
+..*
+finished, finished, #iter = 23
+value value = -0.701534
+= = 192
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/keep.xml
+260
+ 260
+..*
+finished, finished, #iter = 23
+value value = -0.505758
+= = 159
+..*
+finished, finished, #iter = 22
+value value = -0.867738
+= = 196
+...*
+finished, finished, #iter = 31
+value value = -1.619320
+= = 250
+..*
+finished, finished, #iter = 22
+value value = -0.377795
+= = 143
+..*
+finished, finished, #iter = 21
+value value = -0.453259
+= = 163
+..**
+finished, finished, #iter = 28
+value value = -0.303143
+= = 122
+.*
+finished, finished, #iter = 15
+value value = -0.047474
+= = 33
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/management.xml
+284
+ 284
+.*.*
+finished, finished, #iter = 21
+value value = -0.783161
+= = 208
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/remember.xml
+121
+ 121
+.*
+finished, finished, #iter = 12
+value value = -0.037516
+= = 34
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/system.xml
+450
+ 450
+.*
+finished, finished, #iter = 11
+value value = -0.051749
+= = 76
+..*
+finished, finished, #iter = 21
+value value = -1.003961
+= = 251
+...*
+finished, finished, #iter = 36
+value value = -1.063528
+= = 270
+...*
+finished, finished, #iter = 36
+value value = -0.882200
+= = 239
+*.
+finished, finished, #iter = 10
+value value = -0.068234
+= = 47
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/find.xml
+174
+ 174
+.*
+finished, finished, #iter = 14
+value value = -0.220279
+= = 96
+.*
+finished, finished, #iter = 17
+value value = -0.361219
+= = 116
+*
+finished, finished, #iter = 8
+value value = -0.024036
+= = 24
+.*
+finished, finished, #iter = 14
+value value = -0.088747
+= = 49
+.*
+finished, finished, #iter = 14
+value value = -0.061674
+= = 44
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/grant.xml
+19
+ 19
+.
+finished, finished, #iter = 10
+value value = -0.064481
+= = 19
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/do.xml
+207
+ 207
+.*
+finished, finished, #iter = 18
+value value = -0.310038
+= = 120
+.*.
+finished, finished, #iter = 20
+value value = -0.250142
+= = 114
+.*
+finished, finished, #iter = 11
+value value = -0.039248
+= = 34
+.*
+finished, finished, #iter = 13
+value value = -0.042968
+= = 30
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/propose.xml
+34
+ 34
+.*
+finished, finished, #iter = 13
+value value = -0.062182
+= = 26
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/rate.xml
+1009
+ 1009
+.............*.*.*
+finished, finished, #iter = 153
+value value = -1.741152
+= = 378
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/work.xml
+230
+ 230
+.*
+finished, finished, #iter = 18
+value value = -0.572751
+= = 155
+..*
+finished, finished, #iter = 22
+value value = -0.775936
+= = 186
+.*
+finished, finished, #iter = 19
+value value = -0.274330
+= = 112
+.*
+finished, finished, #iter = 19
+value value = -0.223980
+= = 85
+.*
+finished, finished, #iter = 12
+value value = -0.080761
+= = 74
+.*
+finished, finished, #iter = 14
+value value = -0.071752
+= = 56
+.*
+finished, finished, #iter = 13
+value value = -0.114496
+= = 64
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/contribute.xml
+35
+ 35
+.
+finished, finished, #iter = 13
+value value = -0.115549
+= = 35
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/president.xml
+879
+ 879
+...*
+finished, finished, #iter = 36
+value value = -0.525076
+= = 201
+..*
+finished, finished, #iter = 27
+value value = -0.556621
+= = 200
+.*
+finished, finished, #iter = 16
+value value = -0.264023
+= = 140
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/kill.xml
+111
+ 111
+.*
+finished, finished, #iter = 17
+value value = -0.108966
+= = 52
+.*
+finished, finished, #iter = 18
+value value = -0.075335
+= = 43
+*.
+finished, finished, #iter = 10
+value value = -0.048298
+= = 35
+.*
+finished, finished, #iter = 15
+value value = -0.045113
+= = 28
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/disclose.xml
+55
+ 55
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/part.xml
+481
+ 481
+.*.
+finished, finished, #iter = 20
+value value = -0.628656
+= = 264
+.*
+finished, finished, #iter = 18
+value value = -0.545393
+= = 251
+.*
+finished, finished, #iter = 18
+value value = -0.234170
+= = 141
+*
+finished, finished, #iter = 8
+value value = -0.026649
+= = 31
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/believe.xml
+202
+ 202
+..*
+finished, finished, #iter = 23
+value value = -0.653322
+= = 151
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/enjoy.xml
+56
+ 56
+.*
+finished, finished, #iter = 11
+value value = -0.116512
+= = 49
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/go.xml
+244
+ 244
+.*
+finished, finished, #iter = 13
+value value = -0.141972
+= = 93
+...**.
+finished, finished, #iter = 40
+value value = -0.318261
+= = 107
+..*
+finished, finished, #iter = 22
+value value = -0.381417
+= = 126
+...*.*
+finished, finished, #iter = 44
+value value = -1.268912
+= = 217
+.*
+finished, finished, #iter = 12
+value value = -0.079586
+= = 60
+*
+finished, finished, #iter = 9
+value value = -0.049888
+= = 45
+.*.
+finished, finished, #iter = 20
+value value = -0.700463
+= = 184
+..*.
+finished, finished, #iter = 30
+value value = -0.375851
+= = 124
+.*
+finished, finished, #iter = 15
+value value = -0.085273
+= = 70
+*
+finished, finished, #iter = 9
+value value = -0.048008
+= = 30
+..*
+finished, finished, #iter = 22
+value value = -0.048911
+= = 21
+.*
+finished, finished, #iter = 11
+value value = -0.053762
+= = 42
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/defense.xml
+120
+ 120
+.*
+finished, finished, #iter = 15
+value value = -0.158262
+= = 69
+.*
+finished, finished, #iter = 15
+value value = -0.180265
+= = 68
+.*
+finished, finished, #iter = 17
+value value = -0.302706
+= = 96
+.*
+finished, finished, #iter = 15
+value value = -0.219536
+= = 83
+.*
+finished, finished, #iter = 14
+value value = -0.196430
+= = 83
+.**
+finished, finished, #iter = 17
+value value = -0.296751
+= = 88
+.*
+finished, finished, #iter = 17
+value value = -0.115972
+= = 63
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/regard.xml
+40
+ 40
+.
+finished, finished, #iter = 11
+value value = -0.124235
+= = 40
+.*
+finished, finished, #iter = 12
+value value = -0.061410
+= = 35
+*.
+finished, finished, #iter = 10
+value value = -0.083682
+= = 32
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/share.xml
+2536
+ 2536
+.*.
+finished, finished, #iter = 20
+value value = -0.650446
+= = 229
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/describe.xml
+57
+ 57
+.*
+finished, finished, #iter = 11
+value value = -0.056553
+= = 37
+*.
+finished, finished, #iter = 10
+value value = -0.054684
+= = 34
+*
+finished, finished, #iter = 8
+value value = -0.018726
+= = 20
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/exist.xml
+52
+ 52
+.*
+finished, finished, #iter = 13
+value value = -0.058082
+= = 33
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/lead.xml
+165
+ 165
+.*.
+finished, finished, #iter = 20
+value value = -0.364751
+= = 130
+.*
+finished, finished, #iter = 15
+value value = -0.308528
+= = 115
+.*
+finished, finished, #iter = 17
+value value = -0.265078
+= = 98
+.*
+finished, finished, #iter = 17
+value value = -0.164903
+= = 91
+.*
+finished, finished, #iter = 18
+value value = -0.317300
+= = 95
+.*
+finished, finished, #iter = 17
+value value = -0.089875
+= = 65
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/value.xml
+335
+ 335
+..*
+finished, finished, #iter = 21
+value value = -0.453682
+= = 136
+..*
+finished, finished, #iter = 23
+value value = -0.486729
+= = 141
+.*
+finished, finished, #iter = 12
+value value = -0.141873
+= = 59
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/negotiate.xml
+25
+ 25
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/complain.xml
+32
+ 32
+*
+finished, finished, #iter = 8
+value value = -0.023529
+= = 16
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/policy.xml
+331
+ 331
+..*
+finished, finished, #iter = 21
+value value = -0.441692
+= = 185
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/hour.xml
+187
+ 187
+..*
+finished, finished, #iter = 22
+value value = -0.410091
+= = 131
+*
+finished, finished, #iter = 9
+value value = -0.027750
+= = 39
+.*.
+finished, finished, #iter = 20
+value value = -0.388670
+= = 128
+*
+finished, finished, #iter = 8
+value value = -0.023840
+= = 28
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/improve.xml
+31
+ 31
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/maintain.xml
+61
+ 61
+.**
+finished, finished, #iter = 13
+value value = -0.125988
+= = 50
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/cause.xml
+73
+ 73
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/join.xml
+68
+ 68
+.
+finished, finished, #iter = 17
+value value = -0.342849
+= = 68
+.*
+finished, finished, #iter = 18
+value value = -0.225785
+= = 65
+.*
+finished, finished, #iter = 12
+value value = -0.071241
+= = 41
+.*
+finished, finished, #iter = 15
+value value = -0.190146
+= = 55
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/purchase.xml
+35
+ 35
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/occur.xml
+47
+ 47
+.*
+finished, finished, #iter = 14
+value value = -0.095869
+= = 38
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/network.xml
+152
+ 152
+.**.
+finished, finished, #iter = 20
+value value = -0.374729
+= = 118
+.*
+finished, finished, #iter = 18
+value value = -0.316030
+= = 113
+.*
+finished, finished, #iter = 17
+value value = -0.342007
+= = 110
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/job.xml
+188
+ 188
+.*
+finished, finished, #iter = 19
+value value = -0.583679
+= = 151
+.*
+finished, finished, #iter = 17
+value value = -0.526651
+= = 143
+.*
+finished, finished, #iter = 15
+value value = -0.149583
+= = 75
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/chance.xml
+91
+ 91
+...............*
+finished, finished, #iter = 157
+value value = -0.259553
+= = 52
+.*
+finished, finished, #iter = 16
+value value = -0.295056
+= = 88
+...............**
+finished, finished, #iter = 159
+value value = -0.507325
+= = 87
+.*
+finished, finished, #iter = 13
+value value = -0.045660
+= = 41
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/ask.xml
+348
+ 348
+..*
+finished, finished, #iter = 25
+value value = -1.091914
+= = 258
+..*
+finished, finished, #iter = 28
+value value = -1.123887
+= = 254
+*.
+finished, finished, #iter = 10
+value value = -0.096269
+= = 52
+*.
+finished, finished, #iter = 10
+value value = -0.049781
+= = 42
+.*
+finished, finished, #iter = 19
+value value = -0.132660
+= = 88
+.*
+finished, finished, #iter = 12
+value value = -0.088705
+= = 54
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/condition.xml
+132
+ 132
+.**
+finished, finished, #iter = 18
+value value = -0.275181
+= = 86
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/affect.xml
+45
+ 45
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/explain.xml
+85
+ 85
+.*
+finished, finished, #iter = 14
+value value = -0.175247
+= = 59
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/need.xml
+195
+ 195
+..*
+finished, finished, #iter = 28
+value value = -0.516327
+= = 163
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/estimate.xml
+74
+ 74
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/express.xml
+47
+ 47
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/build.xml
+119
+ 119
+.*
+finished, finished, #iter = 19
+value value = -0.400351
+= = 103
+.*
+finished, finished, #iter = 17
+value value = -0.392299
+= = 110
+.*
+finished, finished, #iter = 14
+value value = -0.110928
+= = 63
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/effect.xml
+178
+ 178
+.*
+finished, finished, #iter = 17
+value value = -0.351227
+= = 126
+.*
+finished, finished, #iter = 16
+value value = -0.323825
+= = 115
+.*
+finished, finished, #iter = 11
+value value = -0.048865
+= = 50
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/hope.xml
+103
+ 103
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/recall.xml
+49
+ 49
+*
+finished, finished, #iter = 9
+value value = -0.043244
+= = 31
+*
+finished, finished, #iter = 8
+value value = -0.030909
+= = 26
+*
+finished, finished, #iter = 8
+value value = -0.026665
+= = 20
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/drug.xml
+205
+ 205
+.*
+finished, finished, #iter = 16
+value value = -0.353515
+= = 136
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/carrier.xml
+111
+ 111
+.*
+finished, finished, #iter = 18
+value value = -0.251812
+= = 91
+*.
+finished, finished, #iter = 10
+value value = -0.026328
+= = 30
+.*
+finished, finished, #iter = 14
+value value = -0.032293
+= = 35
+.*
+finished, finished, #iter = 13
+value value = -0.131234
+= = 70
+.*
+finished, finished, #iter = 12
+value value = -0.068331
+= = 55
+*
+finished, finished, #iter = 9
+value value = -0.027036
+= = 36
+.*
+finished, finished, #iter = 11
+value value = -0.063053
+= = 53
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/plant.xml
+347
+ 347
+....**
+finished, finished, #iter = 44
+value value = -0.310129
+= = 125
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/set.xml
+174
+ 174
+.*
+finished, finished, #iter = 15
+value value = -0.443256
+= = 125
+.*
+finished, finished, #iter = 16
+value value = -0.424711
+= = 144
+.*
+finished, finished, #iter = 19
+value value = -0.606515
+= = 156
+.*
+finished, finished, #iter = 18
+value value = -0.511339
+= = 149
+.*
+finished, finished, #iter = 14
+value value = -0.153228
+= = 76
+.*
+finished, finished, #iter = 14
+value value = -0.069133
+= = 46
+.*
+finished, finished, #iter = 13
+value value = -0.058621
+= = 51
+.*
+finished, finished, #iter = 17
+value value = -0.086928
+= = 45
+*
+finished, finished, #iter = 9
+value value = -0.034432
+= = 21
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/prepare.xml
+54
+ 54
+.
+finished, finished, #iter = 11
+value value = -0.183548
+= = 53
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/fix.xml
+32
+ 32
+.*
+finished, finished, #iter = 12
+value value = -0.072039
+= = 28
+.*
+finished, finished, #iter = 13
+value value = -0.068895
+= = 26
+.**
+finished, finished, #iter = 16
+value value = -0.110368
+= = 29
+.
+finished, finished, #iter = 13
+value value = -0.128292
+= = 32
+.*
+finished, finished, #iter = 12
+value value = -0.055620
+= = 21
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/buy.xml
+164
+ 164
+..*
+finished, finished, #iter = 24
+value value = -0.609673
+= = 131
+..*
+finished, finished, #iter = 24
+value value = -0.448723
+= = 118
+.*
+finished, finished, #iter = 15
+value value = -0.085317
+= = 60
+*.
+finished, finished, #iter = 10
+value value = -0.092248
+= = 55
+*
+finished, finished, #iter = 8
+value value = -0.030242
+= = 25
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/turn.xml
+340
+ 340
+.*
+finished, finished, #iter = 18
+value value = -0.572312
+= = 186
+.*
+finished, finished, #iter = 18
+value value = -0.405955
+= = 160
+..**
+finished, finished, #iter = 25
+value value = -1.134640
+= = 243
+.*.
+finished, finished, #iter = 20
+value value = -0.295041
+= = 143
+.*
+finished, finished, #iter = 12
+value value = -0.037606
+= = 49
+.*
+finished, finished, #iter = 17
+value value = -0.274133
+= = 135
+.*
+finished, finished, #iter = 16
+value value = -0.251541
+= = 123
+*
+finished, finished, #iter = 9
+value value = -0.031377
+= = 37
+.*
+finished, finished, #iter = 16
+value value = -0.174913
+= = 93
+.*
+finished, finished, #iter = 12
+value value = -0.080565
+= = 58
+.*
+finished, finished, #iter = 11
+value value = -0.073532
+= = 57
+.*.
+finished, finished, #iter = 20
+value value = -0.321358
+= = 148
+.*
+finished, finished, #iter = 12
+value value = -0.041173
+= = 50
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/avoid.xml
+55
+ 55
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/remove.xml
+47
+ 47
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/begin.xml
+114
+ 114
+.*
+finished, finished, #iter = 15
+value value = -0.426391
+= = 111
+.*
+finished, finished, #iter = 18
+value value = -0.414562
+= = 112
+*.
+finished, finished, #iter = 10
+value value = -0.029001
+= = 29
+.*
+finished, finished, #iter = 11
+value value = -0.049269
+= = 36
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/hold.xml
+129
+ 129
+.*
+finished, finished, #iter = 17
+value value = -0.446737
+= = 121
+..*
+finished, finished, #iter = 23
+value value = -0.360765
+= = 114
+.*
+finished, finished, #iter = 16
+value value = -0.257811
+= = 90
+.*
+finished, finished, #iter = 16
+value value = -0.206080
+= = 86
+*
+finished, finished, #iter = 9
+value value = -0.056157
+= = 47
+.*
+finished, finished, #iter = 15
+value value = -0.117824
+= = 72
+.*
+finished, finished, #iter = 15
+value value = -0.103159
+= = 68
+.*
+finished, finished, #iter = 12
+value value = -0.120583
+= = 72
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/point.xml
+469
+ 469
+.*.
+finished, finished, #iter = 20
+value value = -0.420061
+= = 175
+.*
+finished, finished, #iter = 17
+value value = -0.324954
+= = 123
+.*
+finished, finished, #iter = 16
+value value = -0.536788
+= = 170
+.*
+finished, finished, #iter = 17
+value value = -0.400675
+= = 155
+.*
+finished, finished, #iter = 14
+value value = -0.080187
+= = 85
+.*
+finished, finished, #iter = 14
+value value = -0.100441
+= = 78
+.*
+finished, finished, #iter = 14
+value value = -0.133424
+= = 109
+*.
+finished, finished, #iter = 10
+value value = -0.057484
+= = 56
+.*
+finished, finished, #iter = 13
+value value = -0.036123
+= = 55
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/exchange.xml
+363
+ 363
+..*.
+finished, finished, #iter = 30
+value value = -0.585748
+= = 192
+..*
+finished, finished, #iter = 24
+value value = -0.398295
+= = 184
+..*
+finished, finished, #iter = 29
+value value = -0.249311
+= = 120
+.*
+finished, finished, #iter = 13
+value value = -0.083365
+= = 80
+.*
+finished, finished, #iter = 11
+value value = -0.033209
+= = 37
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/announce.xml
+88
+ 88
+.**
+finished, finished, #iter = 19
+value value = -0.040483
+= = 33
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/end.xml
+135
+ 135
+.*
+finished, finished, #iter = 16
+value value = -0.265011
+= = 100
+.*
+finished, finished, #iter = 18
+value value = -0.282108
+= = 105
+*.
+finished, finished, #iter = 10
+value value = -0.064944
+= = 45
+.*
+finished, finished, #iter = 14
+value value = -0.118269
+= = 69
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/say.xml
+2161
+ 2161
+..*.*
+finished, finished, #iter = 31
+value value = -1.103302
+= = 373
+..*
+finished, finished, #iter = 23
+value value = -0.736974
+= = 332
+.*
+finished, finished, #iter = 18
+value value = -0.149124
+= = 94
+..*
+finished, finished, #iter = 21
+value value = -0.139123
+= = 114
+.*
+finished, finished, #iter = 12
+value value = -0.080665
+= = 104
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/replace.xml
+46
+ 46
+.*
+finished, finished, #iter = 11
+value value = -0.047941
+= = 25
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/produce.xml
+115
+ 115
+.**
+finished, finished, #iter = 16
+value value = -0.166305
+= = 74
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/future.xml
+350
+ 350
+.*
+finished, finished, #iter = 15
+value value = -0.265223
+= = 103
+.*
+finished, finished, #iter = 14
+value value = -0.227175
+= = 102
+.*
+finished, finished, #iter = 11
+value value = -0.080728
+= = 89
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/source.xml
+152
+ 152
+.*
+finished, finished, #iter = 13
+value value = -0.227979
+= = 102
+..*
+finished, finished, #iter = 22
+value value = -0.339517
+= = 116
+.*
+finished, finished, #iter = 16
+value value = -0.204283
+= = 88
+.................................................................*.*.*
+finished, finished, #iter = 673
+value value = -3.577655
+= = 90
+..................................................................***
+finished, finished, #iter = 669
+value value = -3.539581
+= = 64
+done
+/home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/development.xml
+180
+ 180
+.**
+finished, finished, #iter = 16
+value value = -0.324710
+= = 116
+.*
+finished, finished, #iter = 15
+value value = -0.107072
+= = 84
+.*
+finished, finished, #iter = 16
+value value = -0.271089
+= = 108
+done
+709 709.79system 8:39:45elapsed 117%CPU (0avgtext+0avgdata 32453708maxresident)k
+(1575major+30490978minor)pagefaults (1575major+30490978minor)pagefaults 0swaps
