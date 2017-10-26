@@ -1,0 +1,304 @@
+Sending build context to Docker daemon  2.295GB
+Step 1/8 : FROM gcr.io/tensorflow/tensorflow:0.7.0
+ ---> 002f882bde74
+Step 2/8 : MAINTAINER Mikael Kågebäck <kageback@chalmers.se>
+ ---> Using cache
+ ---> 3ec7c6bb384d
+Step 3/8 : RUN apt-get update && apt-get install -y 	nano 	python-lxml 	curl 	unzip
+ ---> Using cache
+ ---> f72793a11245
+Step 4/8 : RUN pip install sklearn nltk lxml
+ ---> Using cache
+ ---> 803bc39ceff6
+Step 5/8 : WORKDIR /src
+ ---> Using cache
+ ---> 42992a6963da
+Step 6/8 : RUN mkdir tmp && cd tmp && mkdir model && cd model && mkdir 2 && cd ../..
+ ---> Using cache
+ ---> bab818d744ca
+Step 7/8 : RUN mkdir data && cd data
+ ---> Using cache
+ ---> 1963e142b1ff
+Step 8/8 : COPY . .
+ ---> Using cache
+ ---> 55cb6c747d83
+Successfully built 55cb6c747d83
+Successfully tagged kageback/wsd:latest
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Dataset size (train/test): 7720 / 3944
+Vocabulary size: 37998
+n words not found in glove word vectors: 3215
+n_step forward/backward: 70 / 70
+Avg n senses per target word: 5
+TRAINABLE VARIABLES
+model/emb/embeddings:0
+model/target_params/W_target:0
+model/target_params/b_target:0
+model/forward/MultiRNNCell/Cell0/BasicLSTMCell/Linear/Matrix:0
+model/forward/MultiRNNCell/Cell0/BasicLSTMCell/Linear/Bias:0
+model/backward/MultiRNNCell/Cell0/BasicLSTMCell/Linear/Matrix:0
+model/backward/MultiRNNCell/Cell0/BasicLSTMCell/Linear/Bias:0
+model/hidden/Linear/Matrix:0
+model/hidden/Linear/Bias:0
+n_step forward/backward: 70 / 70
+Avg n senses per target word: 5
+::: EPOCH: 0 :::
+TRAIN --> 	cost: 1.258875, 	accuracy: 0.502727, 	lr: 1.947852
+./tmp/model/2/wsd.ckpt-0
+::: EPOCH: 1 :::
+TRAIN --> 	cost: 1.150607, 	accuracy: 0.544805, 	lr: 1.848434
+::: EPOCH: 2 :::
+TRAIN --> 	cost: 1.088686, 	accuracy: 0.567143, 	lr: 1.754091
+::: EPOCH: 3 :::
+TRAIN --> 	cost: 1.040865, 	accuracy: 0.598701, 	lr: 1.664563
+::: EPOCH: 4 :::
+TRAIN --> 	cost: 1.002561, 	accuracy: 0.613377, 	lr: 1.579604
+::: EPOCH: 5 :::
+TRAIN --> 	cost: 0.966082, 	accuracy: 0.627403, 	lr: 1.498982
+./tmp/model/2/wsd.ckpt-5
+::: EPOCH: 6 :::
+TRAIN --> 	cost: 0.946922, 	accuracy: 0.634675, 	lr: 1.422474
+::: EPOCH: 7 :::
+TRAIN --> 	cost: 0.931727, 	accuracy: 0.643507, 	lr: 1.349872
+::: EPOCH: 8 :::
+TRAIN --> 	cost: 0.895949, 	accuracy: 0.655325, 	lr: 1.280975
+::: EPOCH: 9 :::
+TRAIN --> 	cost: 0.886604, 	accuracy: 0.662727, 	lr: 1.215594
+::: EPOCH: 10 :::
+TRAIN --> 	cost: 0.851112, 	accuracy: 0.671948, 	lr: 1.153551
+./tmp/model/2/wsd.ckpt-10
+::: EPOCH: 11 :::
+TRAIN --> 	cost: 0.831732, 	accuracy: 0.673247, 	lr: 1.094674
+::: EPOCH: 12 :::
+TRAIN --> 	cost: 0.825466, 	accuracy: 0.687922, 	lr: 1.038802
+::: EPOCH: 13 :::
+TRAIN --> 	cost: 0.820131, 	accuracy: 0.677792, 	lr: 0.985782
+::: EPOCH: 14 :::
+TRAIN --> 	cost: 0.787795, 	accuracy: 0.693117, 	lr: 0.935468
+::: EPOCH: 15 :::
+TRAIN --> 	cost: 0.775695, 	accuracy: 0.699480, 	lr: 0.887722
+./tmp/model/2/wsd.ckpt-15
+::: EPOCH: 16 :::
+TRAIN --> 	cost: 0.763696, 	accuracy: 0.707273, 	lr: 0.842413
+::: EPOCH: 17 :::
+TRAIN --> 	cost: 0.744164, 	accuracy: 0.711299, 	lr: 0.799417
+::: EPOCH: 18 :::
+TRAIN --> 	cost: 0.743928, 	accuracy: 0.715065, 	lr: 0.758615
+::: EPOCH: 19 :::
+TRAIN --> 	cost: 0.724639, 	accuracy: 0.719091, 	lr: 0.719895
+::: EPOCH: 20 :::
+TRAIN --> 	cost: 0.717176, 	accuracy: 0.724026, 	lr: 0.683152
+./tmp/model/2/wsd.ckpt-20
+::: EPOCH: 21 :::
+TRAIN --> 	cost: 0.701209, 	accuracy: 0.724545, 	lr: 0.648284
+::: EPOCH: 22 :::
+TRAIN --> 	cost: 0.697341, 	accuracy: 0.727143, 	lr: 0.615196
+::: EPOCH: 23 :::
+TRAIN --> 	cost: 0.688498, 	accuracy: 0.727143, 	lr: 0.583797
+::: EPOCH: 24 :::
+TRAIN --> 	cost: 0.677339, 	accuracy: 0.735844, 	lr: 0.554000
+::: EPOCH: 25 :::
+TRAIN --> 	cost: 0.676739, 	accuracy: 0.737532, 	lr: 0.525724
+./tmp/model/2/wsd.ckpt-25
+::: EPOCH: 26 :::
+TRAIN --> 	cost: 0.655944, 	accuracy: 0.746234, 	lr: 0.498891
+::: EPOCH: 27 :::
+TRAIN --> 	cost: 0.652567, 	accuracy: 0.742597, 	lr: 0.473428
+::: EPOCH: 28 :::
+TRAIN --> 	cost: 0.660192, 	accuracy: 0.739091, 	lr: 0.449264
+::: EPOCH: 29 :::
+TRAIN --> 	cost: 0.640194, 	accuracy: 0.754805, 	lr: 0.426334
+::: EPOCH: 30 :::
+TRAIN --> 	cost: 0.631877, 	accuracy: 0.754805, 	lr: 0.404574
+./tmp/model/2/wsd.ckpt-30
+::: EPOCH: 31 :::
+TRAIN --> 	cost: 0.621125, 	accuracy: 0.760909, 	lr: 0.383925
+::: EPOCH: 32 :::
+TRAIN --> 	cost: 0.619294, 	accuracy: 0.756624, 	lr: 0.364329
+::: EPOCH: 33 :::
+TRAIN --> 	cost: 0.605788, 	accuracy: 0.764675, 	lr: 0.345734
+::: EPOCH: 34 :::
+TRAIN --> 	cost: 0.605301, 	accuracy: 0.769350, 	lr: 0.328088
+::: EPOCH: 35 :::
+TRAIN --> 	cost: 0.604329, 	accuracy: 0.763247, 	lr: 0.311342
+./tmp/model/2/wsd.ckpt-35
+::: EPOCH: 36 :::
+TRAIN --> 	cost: 0.594946, 	accuracy: 0.767662, 	lr: 0.295452
+::: EPOCH: 37 :::
+TRAIN --> 	cost: 0.594350, 	accuracy: 0.767533, 	lr: 0.280372
+::: EPOCH: 38 :::
+TRAIN --> 	cost: 0.582233, 	accuracy: 0.771299, 	lr: 0.266062
+::: EPOCH: 39 :::
+TRAIN --> 	cost: 0.575281, 	accuracy: 0.780390, 	lr: 0.252482
+::: EPOCH: 40 :::
+TRAIN --> 	cost: 0.586775, 	accuracy: 0.767403, 	lr: 0.239596
+./tmp/model/2/wsd.ckpt-40
+::: EPOCH: 41 :::
+TRAIN --> 	cost: 0.575401, 	accuracy: 0.778182, 	lr: 0.227367
+::: EPOCH: 42 :::
+TRAIN --> 	cost: 0.559009, 	accuracy: 0.781039, 	lr: 0.215762
+::: EPOCH: 43 :::
+TRAIN --> 	cost: 0.572055, 	accuracy: 0.775455, 	lr: 0.204750
+::: EPOCH: 44 :::
+TRAIN --> 	cost: 0.565129, 	accuracy: 0.780000, 	lr: 0.194299
+::: EPOCH: 45 :::
+TRAIN --> 	cost: 0.562811, 	accuracy: 0.778312, 	lr: 0.184382
+./tmp/model/2/wsd.ckpt-45
+::: EPOCH: 46 :::
+TRAIN --> 	cost: 0.556322, 	accuracy: 0.781948, 	lr: 0.174971
+::: EPOCH: 47 :::
+TRAIN --> 	cost: 0.562746, 	accuracy: 0.780779, 	lr: 0.166041
+::: EPOCH: 48 :::
+TRAIN --> 	cost: 0.548306, 	accuracy: 0.789610, 	lr: 0.157566
+::: EPOCH: 49 :::
+TRAIN --> 	cost: 0.554915, 	accuracy: 0.782857, 	lr: 0.149524
+::: EPOCH: 50 :::
+TRAIN --> 	cost: 0.537897, 	accuracy: 0.794026, 	lr: 0.141892
+./tmp/model/2/wsd.ckpt-50
+::: EPOCH: 51 :::
+TRAIN --> 	cost: 0.550977, 	accuracy: 0.781559, 	lr: 0.134650
+::: EPOCH: 52 :::
+TRAIN --> 	cost: 0.544492, 	accuracy: 0.790260, 	lr: 0.127778
+::: EPOCH: 53 :::
+TRAIN --> 	cost: 0.547043, 	accuracy: 0.787403, 	lr: 0.121256
+::: EPOCH: 54 :::
+TRAIN --> 	cost: 0.542207, 	accuracy: 0.790520, 	lr: 0.115067
+::: EPOCH: 55 :::
+TRAIN --> 	cost: 0.540518, 	accuracy: 0.791688, 	lr: 0.109194
+./tmp/model/2/wsd.ckpt-55
+::: EPOCH: 56 :::
+TRAIN --> 	cost: 0.542931, 	accuracy: 0.788442, 	lr: 0.103621
+::: EPOCH: 57 :::
+TRAIN --> 	cost: 0.547422, 	accuracy: 0.790909, 	lr: 0.098332
+::: EPOCH: 58 :::
+TRAIN --> 	cost: 0.521891, 	accuracy: 0.795974, 	lr: 0.093313
+::: EPOCH: 59 :::
+TRAIN --> 	cost: 0.538755, 	accuracy: 0.790780, 	lr: 0.088551
+::: EPOCH: 60 :::
+TRAIN --> 	cost: 0.533670, 	accuracy: 0.791039, 	lr: 0.084031
+./tmp/model/2/wsd.ckpt-60
+::: EPOCH: 61 :::
+TRAIN --> 	cost: 0.530632, 	accuracy: 0.789870, 	lr: 0.079742
+::: EPOCH: 62 :::
+TRAIN --> 	cost: 0.529321, 	accuracy: 0.791948, 	lr: 0.075672
+::: EPOCH: 63 :::
+TRAIN --> 	cost: 0.518806, 	accuracy: 0.797273, 	lr: 0.071810
+::: EPOCH: 64 :::
+TRAIN --> 	cost: 0.532326, 	accuracy: 0.792727, 	lr: 0.068145
+::: EPOCH: 65 :::
+TRAIN --> 	cost: 0.527058, 	accuracy: 0.793507, 	lr: 0.064667
+./tmp/model/2/wsd.ckpt-65
+::: EPOCH: 66 :::
+TRAIN --> 	cost: 0.529515, 	accuracy: 0.792208, 	lr: 0.061366
+::: EPOCH: 67 :::
+TRAIN --> 	cost: 0.523003, 	accuracy: 0.797532, 	lr: 0.058234
+::: EPOCH: 68 :::
+TRAIN --> 	cost: 0.516782, 	accuracy: 0.801039, 	lr: 0.055262
+::: EPOCH: 69 :::
+TRAIN --> 	cost: 0.516536, 	accuracy: 0.797403, 	lr: 0.052441
+::: EPOCH: 70 :::
+TRAIN --> 	cost: 0.523467, 	accuracy: 0.800000, 	lr: 0.049765
+./tmp/model/2/wsd.ckpt-70
+::: EPOCH: 71 :::
+TRAIN --> 	cost: 0.515473, 	accuracy: 0.796624, 	lr: 0.047225
+::: EPOCH: 72 :::
+TRAIN --> 	cost: 0.508205, 	accuracy: 0.800390, 	lr: 0.044814
+::: EPOCH: 73 :::
+TRAIN --> 	cost: 0.507024, 	accuracy: 0.805195, 	lr: 0.042527
+::: EPOCH: 74 :::
+TRAIN --> 	cost: 0.514800, 	accuracy: 0.793507, 	lr: 0.040356
+::: EPOCH: 75 :::
+TRAIN --> 	cost: 0.516353, 	accuracy: 0.798572, 	lr: 0.038297
+./tmp/model/2/wsd.ckpt-75
+::: EPOCH: 76 :::
+TRAIN --> 	cost: 0.515521, 	accuracy: 0.799221, 	lr: 0.036342
+::: EPOCH: 77 :::
+TRAIN --> 	cost: 0.513105, 	accuracy: 0.794286, 	lr: 0.034487
+::: EPOCH: 78 :::
+TRAIN --> 	cost: 0.518407, 	accuracy: 0.797662, 	lr: 0.032727
+::: EPOCH: 79 :::
+TRAIN --> 	cost: 0.518050, 	accuracy: 0.803507, 	lr: 0.031057
+::: EPOCH: 80 :::
+TRAIN --> 	cost: 0.514267, 	accuracy: 0.797273, 	lr: 0.029471
+./tmp/model/2/wsd.ckpt-80
+::: EPOCH: 81 :::
+TRAIN --> 	cost: 0.521562, 	accuracy: 0.799610, 	lr: 0.027967
+::: EPOCH: 82 :::
+TRAIN --> 	cost: 0.508790, 	accuracy: 0.800649, 	lr: 0.026540
+::: EPOCH: 83 :::
+TRAIN --> 	cost: 0.508743, 	accuracy: 0.802468, 	lr: 0.025185
+::: EPOCH: 84 :::
+TRAIN --> 	cost: 0.504622, 	accuracy: 0.802727, 	lr: 0.023900
+::: EPOCH: 85 :::
+TRAIN --> 	cost: 0.509909, 	accuracy: 0.798182, 	lr: 0.022680
+./tmp/model/2/wsd.ckpt-85
+::: EPOCH: 86 :::
+TRAIN --> 	cost: 0.503641, 	accuracy: 0.806104, 	lr: 0.021522
+::: EPOCH: 87 :::
+TRAIN --> 	cost: 0.505057, 	accuracy: 0.804546, 	lr: 0.020424
+::: EPOCH: 88 :::
+TRAIN --> 	cost: 0.514943, 	accuracy: 0.800390, 	lr: 0.019381
+::: EPOCH: 89 :::
+TRAIN --> 	cost: 0.508522, 	accuracy: 0.805195, 	lr: 0.018392
+::: EPOCH: 90 :::
+TRAIN --> 	cost: 0.505509, 	accuracy: 0.811688, 	lr: 0.017453
+./tmp/model/2/wsd.ckpt-90
+::: EPOCH: 91 :::
+TRAIN --> 	cost: 0.513000, 	accuracy: 0.801558, 	lr: 0.016563
+::: EPOCH: 92 :::
+TRAIN --> 	cost: 0.510146, 	accuracy: 0.800909, 	lr: 0.015717
+::: EPOCH: 93 :::
+TRAIN --> 	cost: 0.500438, 	accuracy: 0.809740, 	lr: 0.014915
+::: EPOCH: 94 :::
+TRAIN --> 	cost: 0.500904, 	accuracy: 0.806104, 	lr: 0.014154
+::: EPOCH: 95 :::
+TRAIN --> 	cost: 0.511678, 	accuracy: 0.794416, 	lr: 0.013431
+./tmp/model/2/wsd.ckpt-95
+::: EPOCH: 96 :::
+TRAIN --> 	cost: 0.507773, 	accuracy: 0.801039, 	lr: 0.012746
+::: EPOCH: 97 :::
+TRAIN --> 	cost: 0.505787, 	accuracy: 0.804545, 	lr: 0.012095
+::: EPOCH: 98 :::
+TRAIN --> 	cost: 0.504897, 	accuracy: 0.798312, 	lr: 0.011478
+::: EPOCH: 99 :::
+TRAIN --> 	cost: 0.500805, 	accuracy: 0.801039, 	lr: 0.010892
+::: EPOCH: 100 :::
+TRAIN --> 	cost: 0.508669, 	accuracy: 0.804546, 	lr: 0.010336
+./tmp/model/2/wsd.ckpt-100
+::: EPOCH: 101 :::
+TRAIN --> 	cost: 0.494465, 	accuracy: 0.803117, 	lr: 0.009809
+::: EPOCH: 102 :::
+TRAIN --> 	cost: 0.504394, 	accuracy: 0.802467, 	lr: 0.009308
+::: EPOCH: 103 :::
+TRAIN --> 	cost: 0.515359, 	accuracy: 0.797273, 	lr: 0.008833
+::: EPOCH: 104 :::
+TRAIN --> 	cost: 0.509700, 	accuracy: 0.801559, 	lr: 0.008382
+::: EPOCH: 105 :::
+TRAIN --> 	cost: 0.511573, 	accuracy: 0.801169, 	lr: 0.007954
+./tmp/model/2/wsd.ckpt-105
+::: EPOCH: 106 :::
+TRAIN --> 	cost: 0.503647, 	accuracy: 0.802338, 	lr: 0.007548
+::: EPOCH: 107 :::
+TRAIN --> 	cost: 0.493477, 	accuracy: 0.807273, 	lr: 0.007163
+::: EPOCH: 108 :::
+TRAIN --> 	cost: 0.496741, 	accuracy: 0.805585, 	lr: 0.006797
+::: EPOCH: 109 :::
+TRAIN --> 	cost: 0.498919, 	accuracy: 0.808312, 	lr: 0.006451
+{'n_layers': 1, 'train_init_state': False, 'keep_prob': 0.5, 'n_lstm_units': 74, 'batch_size': 100, 'state_size': 200, 'w_penalty': False, 'embedding_size': 100, 'permute_input_order': False, 'forget_bias': 0.0, 'n_step_f': 70, 'input_keep_prob': 0.5, 'word_drop_rate': 0.1, 'n_step_b': 70, 'freeze_emb_n_iter': 0, 'emb_base_std': 0.2, 'train_embeddings': True}
+{'i': 0, 'cost': 100.0, 'accuracy': 0.0}
+/usr/local/lib/python2.7/dist-packages/sklearn/cross_validation.py:41: DeprecationWarning: This module was deprecated in version 0.18 in favor of the model_selection module into which all the refactored classes and functions are moved. Also note that the interface of the new CV iterators are different from that of this module. This module will be removed in 0.20.
+  "This module will be removed in 0.20.", DeprecationWarning)
+Dataset size (train/test): 7720 / 3944
+Vocabulary size: 37998
+Restoring model
+n_step forward/backward: 70 / 70
+Avg n senses per target word: 5
+Evaluating
+Writing to file
+
+Fine-grained score for "./tmp/result" using key "./data/senseval3/EnglishLS.test.key":
+ precision: 0.727 (2868.00 correct of 3944.00 attempted)
+ recall: 0.727 (2868.00 correct of 3944.00 in total)
+ attempted: 100.000 % (3944.00 attempted of 3944.00 in total)
+
