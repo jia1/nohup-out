@@ -1,0 +1,6 @@
+limjiayee@sterling5:~$ cat word2vec/nohup-train-w2v-100-1b.out
+Starting training using file ../preproc/1b-training-corpus.txt
+Vocab size: 552403
+Words in train file: 796188544
+Alpha: 0.000002  Progress: 100.00%  Words/thread/sec: 47.97k  248872.78user 197.68system 8:32:33elapsed 809%CPU (0avgtext+0avgdata 1109948maxresident)k
+8100232inputs+594784outputs (1major+8088766minor)pagefaults 0swaps
