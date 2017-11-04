@@ -1,0 +1,40 @@
+Nov 04, 2017 3:10:32 AM net.didion.jwnl.util.MessageLog doLog
+INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@c4437c4
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/difficulty.xml
+difficulty.n 47
+...........................................................................................................................*....*
+optimization finished, #iter = 1271
+Objective value = -4.160372
+nSV = 50
+.*
+optimization finished, #iter = 12
+Objective value = -0.198181
+nSV = 49
+..........................................................................................................................*...*....**
+optimization finished, #iter = 1299
+Objective value = -8.164104
+nSV = 50
+................................................................................................*...*...*.*
+optimization finished, #iter = 1038
+Objective value = -4.070340
+nSV = 46
+done
+java.io.FileNotFoundException: ../models-se3-lex-emb-1b-200-win-10/difficulty.n.stat.gz (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at sg.edu.nus.comp.nlp.ims.lexelt.CStatistic.writeToFile(CStatistic.java:289)
+	at sg.edu.nus.comp.nlp.ims.io.CModelWriter.write(CModelWriter.java:70)
+	at sg.edu.nus.comp.nlp.ims.implement.CTrainModel.write(CTrainModel.java:354)
+	at sg.edu.nus.comp.nlp.ims.implement.CTrainModel.main(CTrainModel.java:604)
+java.io.FileNotFoundException: ../models-se3-lex-emb-1b-200-win-10/difficulty.n.model.gz (No such file or directory)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:101)
+	at sg.edu.nus.comp.nlp.ims.io.CModelWriter.write(CModelWriter.java:75)
+	at sg.edu.nus.comp.nlp.ims.implement.CTrainModel.write(CTrainModel.java:354)
+	at sg.edu.nus.comp.nlp.ims.implement.CTrainModel.main(CTrainModel.java:604)
+43.16user 39.07system 0:49.39elapsed 166%CPU (0avgtext+0avgdata 10487764maxresident)k
+42576inputs+192outputs (0major+4735945minor)pagefaults 0swaps

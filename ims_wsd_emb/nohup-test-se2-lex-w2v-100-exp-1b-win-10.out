@@ -1,4 +1,4 @@
-Nov 03, 2017 4:27:29 AM net.didion.jwnl.util.MessageLog doLog
+Nov 04, 2017 9:35:54 PM net.didion.jwnl.util.MessageLog doLog
 INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@4d405ef7
 testing /home/limjiayee/ims_wsd_emb/../se2/1-lexical-sample/processed/test/collaborate.xml
 collaborate.v
@@ -292,7 +292,5 @@ writing results
 testing /home/limjiayee/ims_wsd_emb/../se2/1-lexical-sample/processed/test/material.xml
 material.n
 writing results
-./test_w2v_proba.bash: error reading input file: Stale file handle
-Command exited with non-zero status 2
-924.21user 384.93system 18:13.09elapsed 119%CPU (0avgtext+0avgdata 12851156maxresident)k
-1044824inputs+6464outputs (39major+129059232minor)pagefaults 0swaps
+936.64user 114.63system 16:14.20elapsed 107%CPU (0avgtext+0avgdata 12170112maxresident)k
+1929568inputs+22320outputs (24350major+23906780minor)pagefaults 0swaps

@@ -1,4 +1,4 @@
-Nov 03, 2017 4:28:35 AM net.didion.jwnl.util.MessageLog doLog
+Nov 04, 2017 9:36:24 PM net.didion.jwnl.util.MessageLog doLog
 INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@4d405ef7
 testing /home/limjiayee/ims_wsd_emb/../se2/1-lexical-sample/processed/test/collaborate.xml
 collaborate.v
@@ -292,5 +292,5 @@ writing results
 testing /home/limjiayee/ims_wsd_emb/../se2/1-lexical-sample/processed/test/material.xml
 material.n
 writing results
-1256.33user 354.91system 17:49.71elapsed 150%CPU (0avgtext+0avgdata 32292744maxresident)k
-2190192inputs+6480outputs (120major+12895121minor)pagefaults 0swaps
+1755.32user 182.34system 26:30.81elapsed 121%CPU (0avgtext+0avgdata 16602328maxresident)k
+913272inputs+22400outputs (11092major+26921654minor)pagefaults 0swaps
