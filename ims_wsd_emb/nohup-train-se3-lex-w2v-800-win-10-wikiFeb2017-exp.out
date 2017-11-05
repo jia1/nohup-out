@@ -1,0 +1,1551 @@
+Nov 05, 2017 6:17:11 AM net.didion.jwnl.util.MessageLog doLog
+INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@c4437c4
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/difficulty.xml
+difficulty.n 47
+...............................................................................................................................................................................*.....
+optimization finished, #iter = 1808
+Objective value = -4.147479
+nSV = 51
+.*
+optimization finished, #iter = 16
+Objective value = -0.168823
+nSV = 49
+..........................................................................................................................................................................*.......
+optimization finished, #iter = 1774
+Objective value = -8.146785
+nSV = 51
+.............................................................................................................................................*.*..*..*.*.*
+optimization finished, #iter = 1481
+Objective value = -4.064748
+nSV = 43
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/add.xml
+add.v 264
+..............................................................................................................................................................................................*..**..**.*
+optimization finished, #iter = 1952
+Objective value = -66.245746
+nSV = 275
+.........................................................................................................................................................................................*..*..*.**.*
+optimization finished, #iter = 1912
+Objective value = -55.876588
+nSV = 231
+.....................................................................................................................................................................................*...**
+optimization finished, #iter = 1848
+Objective value = -14.575976
+nSV = 201
+.........................................................................................*.*..*..**.*.**
+optimization finished, #iter = 968
+Objective value = -2.140373
+nSV = 120
+..................................................................................................................................*..**....**.*..**
+optimization finished, #iter = 1399
+Objective value = -8.743888
+nSV = 104
+......................................................................................**..*
+optimization finished, #iter = 884
+Objective value = -2.017859
+nSV = 38
+..............................................................................................*....**..**.***.
+optimization finished, #iter = 1020
+Objective value = -4.682684
+nSV = 48
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/shelter.xml
+shelter.n 198
+......................................................................................................................................................................................................*....**
+optimization finished, #iter = 2028
+Objective value = -52.676776
+nSV = 205
+...........................................................................................................................................................................................*.*.**..**.*.*.***
+optimization finished, #iter = 1948
+Objective value = -20.670576
+nSV = 202
+................................................................................................................................................................................................*......*.**...**.*.*
+optimization finished, #iter = 2042
+Objective value = -48.524772
+nSV = 196
+.*
+optimization finished, #iter = 12
+Objective value = -0.045691
+nSV = 62
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/image.xml
+image.n 148
+.**
+optimization finished, #iter = 17
+Objective value = -0.427438
+nSV = 116
+.................................................................................*.*.**
+optimization finished, #iter = 838
+Objective value = -2.311191
+nSV = 115
+.......................................................................................................*...*..*.*..**.***
+optimization finished, #iter = 1126
+Objective value = -4.365187
+nSV = 115
+.........................................................................................................*..*
+optimization finished, #iter = 1074
+Objective value = -2.127060
+nSV = 62
+.*
+optimization finished, #iter = 16
+Objective value = -0.112910
+nSV = 73
+*.
+optimization finished, #iter = 10
+Objective value = -0.031430
+nSV = 29
+.*
+optimization finished, #iter = 14
+Objective value = -0.083075
+nSV = 69
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/receive.xml
+receive.v 52
+.*
+optimization finished, #iter = 11
+Objective value = -0.040078
+nSV = 28
+.*
+optimization finished, #iter = 16
+Objective value = -0.165402
+nSV = 50
+.*
+optimization finished, #iter = 13
+Objective value = -0.071778
+nSV = 39
+*.
+optimization finished, #iter = 10
+Objective value = -0.023880
+nSV = 20
+.*
+optimization finished, #iter = 12
+Objective value = -0.039171
+nSV = 19
+.*
+optimization finished, #iter = 15
+Objective value = -0.046194
+nSV = 19
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/suspend.xml
+suspend.v 128
+.*
+optimization finished, #iter = 15
+Objective value = -0.142457
+nSV = 76
+..........................................................................................................................................................................*..*
+optimization finished, #iter = 1721
+Objective value = -4.442993
+nSV = 115
+............................................................................................................................................................................*...**.*.
+optimization finished, #iter = 1770
+Objective value = -4.154676
+nSV = 91
+.*
+optimization finished, #iter = 14
+Objective value = -0.150047
+nSV = 79
+.*
+optimization finished, #iter = 19
+Objective value = -0.368124
+nSV = 109
+*.
+optimization finished, #iter = 10
+Objective value = -0.048039
+nSV = 42
+.*
+optimization finished, #iter = 11
+Objective value = -0.042153
+nSV = 38
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/decide.xml
+decide.v 123
+..*
+optimization finished, #iter = 21
+Objective value = -0.351714
+nSV = 88
+.*
+optimization finished, #iter = 14
+Objective value = -0.051306
+nSV = 44
+..*
+optimization finished, #iter = 23
+Objective value = -0.346296
+nSV = 87
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/organization.xml
+organization.n 113
+.........................................................................................................................*.**.*.*.****.*..**.****.*
+optimization finished, #iter = 1309
+Objective value = -6.267587
+nSV = 97
+...................................................................................................................*...*......*.*.*.**.**
+optimization finished, #iter = 1284
+Objective value = -6.102707
+nSV = 66
+.*
+optimization finished, #iter = 13
+Objective value = -0.187030
+nSV = 82
+*.
+optimization finished, #iter = 10
+Objective value = -0.024344
+nSV = 36
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/rule.xml
+rule.v 59
+.*
+optimization finished, #iter = 16
+Objective value = -0.095001
+nSV = 41
+.*
+optimization finished, #iter = 16
+Objective value = -0.179397
+nSV = 57
+.**
+optimization finished, #iter = 14
+Objective value = -0.143483
+nSV = 54
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/eat.xml
+eat.v 186
+.............................................................................................................................................................*...**.***.**.**.*
+optimization finished, #iter = 1641
+Objective value = -20.570890
+nSV = 153
+.*
+optimization finished, #iter = 14
+Objective value = -0.168849
+nSV = 83
+.......................................................................................................................................................*.......*..*
+optimization finished, #iter = 1603
+Objective value = -18.470421
+nSV = 147
+...............................................................*.*.*.*.*.***
+optimization finished, #iter = 688
+Objective value = -2.035669
+nSV = 37
+.*
+optimization finished, #iter = 11
+Objective value = -0.034770
+nSV = 38
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/atmosphere.xml
+atmosphere.n 161
+........................................................................................................................................................................................................*..*.*.*.**..**
+optimization finished, #iter = 2076
+Objective value = -62.471367
+nSV = 188
+........................................................................................................................................................................................................*.*..*.*.*
+optimization finished, #iter = 2052
+Objective value = -66.626737
+nSV = 195
+............................................................................................................................................................................................*...*.*
+optimization finished, #iter = 1924
+Objective value = -8.077704
+nSV = 89
+..............................................................................................................................................*..*.*.***
+optimization finished, #iter = 1468
+Objective value = -4.201629
+nSV = 117
+........................................................................................................................................................................................*....*...**.*.*.**.*.**.**.*
+optimization finished, #iter = 1981
+Objective value = -10.209202
+nSV = 119
+..................................................................................................................................................**.***.*
+optimization finished, #iter = 1484
+Objective value = -2.045199
+nSV = 63
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/talk.xml
+talk.v 147
+..*
+optimization finished, #iter = 21
+Objective value = -0.513486
+nSV = 113
+.*
+optimization finished, #iter = 11
+Objective value = -0.035552
+nSV = 24
+*
+optimization finished, #iter = 9
+Objective value = -0.032449
+nSV = 22
+.*
+optimization finished, #iter = 16
+Objective value = -0.254421
+nSV = 83
+.*
+optimization finished, #iter = 16
+Objective value = -0.097365
+nSV = 39
+*.
+optimization finished, #iter = 10
+Objective value = -0.044678
+nSV = 26
+.*
+optimization finished, #iter = 17
+Objective value = -0.084504
+nSV = 38
+.*
+optimization finished, #iter = 11
+Objective value = -0.062427
+nSV = 37
+.*
+optimization finished, #iter = 15
+Objective value = -0.083249
+nSV = 49
+*.
+optimization finished, #iter = 10
+Objective value = -0.030583
+nSV = 22
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/miss.xml
+miss.v 58
+.*
+optimization finished, #iter = 13
+Objective value = -0.145220
+nSV = 43
+.*
+optimization finished, #iter = 13
+Objective value = -0.168515
+nSV = 53
+.*
+optimization finished, #iter = 13
+Objective value = -0.161460
+nSV = 47
+.*
+optimization finished, #iter = 12
+Objective value = -0.030468
+nSV = 22
+.*
+optimization finished, #iter = 11
+Objective value = -0.080927
+nSV = 40
+.*
+optimization finished, #iter = 13
+Objective value = -0.175746
+nSV = 52
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/difference.xml
+difference.n 232
+..................................................................................................................................................................................*..*....*.....**
+optimization finished, #iter = 1893
+Objective value = -20.461721
+nSV = 172
+..................................................................................................................................................................*......**.**.**.***.**
+optimization finished, #iter = 1728
+Objective value = -6.450489
+nSV = 166
+.........................................................................................................................................................................................*.*...**..*
+optimization finished, #iter = 1914
+Objective value = -32.560156
+nSV = 197
+................................................................................................................................................................................................*.*
+optimization finished, #iter = 1931
+Objective value = -38.855083
+nSV = 229
+.................................................................................................................................................................................*.......**
+optimization finished, #iter = 1846
+Objective value = -10.364781
+nSV = 150
+......................................................................................................................................................*.........**..***.*
+optimization finished, #iter = 1622
+Objective value = -6.029595
+nSV = 54
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/use.xml
+use.v 26
+
+optimization finished, #iter = 9
+Objective value = -0.090932
+nSV = 26
+.*
+optimization finished, #iter = 12
+Objective value = -0.032879
+nSV = 20
+.
+optimization finished, #iter = 12
+Objective value = -0.109716
+nSV = 26
+*
+optimization finished, #iter = 8
+Objective value = -0.026692
+nSV = 12
+*
+optimization finished, #iter = 8
+Objective value = -0.033077
+nSV = 8
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/degree.xml
+degree.n 258
+.*
+optimization finished, #iter = 15
+Objective value = -0.330951
+nSV = 146
+...........................................................................................................................................................................................................*..*...*
+optimization finished, #iter = 2082
+Objective value = -58.786044
+nSV = 262
+............................................................................................................................................................................................................*..**
+optimization finished, #iter = 2066
+Objective value = -48.417966
+nSV = 227
+.*
+optimization finished, #iter = 12
+Objective value = -0.068753
+nSV = 64
+.................................................................................................................................................................*....*
+optimization finished, #iter = 1653
+Objective value = -22.128891
+nSV = 167
+*.
+optimization finished, #iter = 10
+Objective value = -0.026004
+nSV = 45
+.*
+optimization finished, #iter = 13
+Objective value = -0.063673
+nSV = 69
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/disc.xml
+disc.n 207
+.........................................................................................................................................................................................*..........*.**.**
+optimization finished, #iter = 1974
+Objective value = -19.221210
+nSV = 188
+......................................................................................................................................................................................................................................................................................................................................*......*...*.*...*
+optimization finished, #iter = 3395
+Objective value = -45.190361
+nSV = 191
+............................................................................................................................................................................................................................................................................................................................................*......*.**
+optimization finished, #iter = 3399
+Objective value = -30.956402
+nSV = 154
+........................................................................................................................................................................................*..*..*..*.*.*.**.*
+optimization finished, #iter = 1945
+Objective value = -10.394781
+nSV = 156
+............................................................................................................*.***.*.*
+optimization finished, #iter = 1113
+Objective value = -4.100358
+nSV = 88
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/different.xml
+different.a 106
+................................................................................................................................................*.....*...*.*.*..*....*.***
+optimization finished, #iter = 1619
+Objective value = -8.594706
+nSV = 111
+..........................................................................................................................................................*.
+optimization finished, #iter = 1550
+Objective value = -6.413488
+nSV = 102
+...................................................................................................................................................................*....*
+optimization finished, #iter = 1671
+Objective value = -4.320179
+nSV = 98
+................................................................................................*.*.*...*
+optimization finished, #iter = 1014
+Objective value = -4.079387
+nSV = 50
+...........................................................................................................................................................................*.*..**
+optimization finished, #iter = 1747
+Objective value = -2.145538
+nSV = 75
+*
+optimization finished, #iter = 9
+Objective value = -0.038175
+nSV = 18
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/party.xml
+party.n 252
+......................................................................................................................................................................*...*....*.*
+optimization finished, #iter = 1742
+Objective value = -12.248827
+nSV = 97
+..........................................................................................................................................................................*....*.*..**
+optimization finished, #iter = 1779
+Objective value = -26.393869
+nSV = 146
+...................................................................................................................................................................*.**.
+optimization finished, #iter = 1650
+Objective value = -22.151547
+nSV = 111
+............................................................................................................................................................*.*...*.*.*
+optimization finished, #iter = 1627
+Objective value = -6.524048
+nSV = 185
+.............................................................................*.*
+optimization finished, #iter = 783
+Objective value = -2.205462
+nSV = 99
+.*
+optimization finished, #iter = 15
+Objective value = -0.279570
+nSV = 144
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/treat.xml
+treat.v 113
+.......................................................................................**..***.***.***
+optimization finished, #iter = 919
+Objective value = -2.120050
+nSV = 60
+......................................................................................*.*.*.**.**.*
+optimization finished, #iter = 913
+Objective value = -2.132401
+nSV = 62
+.*
+optimization finished, #iter = 13
+Objective value = -0.069943
+nSV = 49
+.*
+optimization finished, #iter = 15
+Objective value = -0.475721
+nSV = 104
+.*
+optimization finished, #iter = 18
+Objective value = -0.386013
+nSV = 105
+.*
+optimization finished, #iter = 13
+Objective value = -0.079043
+nSV = 55
+.*
+optimization finished, #iter = 14
+Objective value = -0.128010
+nSV = 64
+.*
+optimization finished, #iter = 13
+Objective value = -0.089686
+nSV = 52
+.*
+optimization finished, #iter = 11
+Objective value = -0.053749
+nSV = 24
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/argument.xml
+argument.n 226
+...........................................................................................................................................................................................*..*.*.*
+optimization finished, #iter = 1912
+Objective value = -55.397317
+nSV = 278
+................................................................................................................................................................................................*.*.**
+optimization finished, #iter = 1947
+Objective value = -86.026234
+nSV = 267
+....................................................................................................................................................................*.**
+optimization finished, #iter = 1658
+Objective value = -25.534902
+nSV = 175
+................................................................................................................................................................................*....*.**.***.**.*
+optimization finished, #iter = 1843
+Objective value = -50.118342
+nSV = 230
+.....................................................................................................................................................................**..*
+optimization finished, #iter = 1672
+Objective value = -22.772652
+nSV = 131
+................................................*.**
+optimization finished, #iter = 495
+Objective value = -2.751859
+nSV = 78
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/encounter.xml
+encounter.v 131
+.*
+optimization finished, #iter = 19
+Objective value = -0.404813
+nSV = 118
+.*
+optimization finished, #iter = 17
+Objective value = -0.348385
+nSV = 113
+*
+optimization finished, #iter = 9
+Objective value = -0.025957
+nSV = 30
+.*
+optimization finished, #iter = 14
+Objective value = -0.114303
+nSV = 67
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/climb.xml
+climb.v 135
+.....................................................................................................*.*.*.***.*.**
+optimization finished, #iter = 1067
+Objective value = -4.547513
+nSV = 132
+..............................................................................................................................................................*...*..***.*.*
+optimization finished, #iter = 1659
+Objective value = -6.562082
+nSV = 126
+*.
+optimization finished, #iter = 10
+Objective value = -0.057634
+nSV = 51
+...........................................................................................................................................................*......*.*.*.*..*..*.**.****.
+optimization finished, #iter = 1710
+Objective value = -2.116938
+nSV = 67
+*.
+optimization finished, #iter = 10
+Objective value = -0.071429
+nSV = 44
+.*
+optimization finished, #iter = 11
+Objective value = -0.062930
+nSV = 48
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/interest.xml
+interest.n 188
+.*
+optimization finished, #iter = 19
+Objective value = -0.418382
+nSV = 143
+....................................................................................................**..**
+optimization finished, #iter = 1025
+Objective value = -4.138981
+nSV = 93
+....................................................................................................................................................................*.......*.**..*.*.*.*.*.**.**.*
+optimization finished, #iter = 1812
+Objective value = -2.175513
+nSV = 91
+...........................................................................................................................................................................*..*
+optimization finished, #iter = 1737
+Objective value = -2.161280
+nSV = 80
+...................................................................................................*..*.*
+optimization finished, #iter = 1021
+Objective value = -4.538336
+nSV = 151
+.*
+optimization finished, #iter = 15
+Objective value = -0.375454
+nSV = 124
+.*
+optimization finished, #iter = 14
+Objective value = -0.068284
+nSV = 54
+.*
+optimization finished, #iter = 15
+Objective value = -0.051148
+nSV = 41
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/paper.xml
+paper.n 244
+......................................................................................................................................*.**..**.**.***.**
+optimization finished, #iter = 1404
+Objective value = -10.145779
+nSV = 96
+.............................................................................................................................................................*........*
+optimization finished, #iter = 1657
+Objective value = -18.635601
+nSV = 229
+.......................................................................................................................................................................................*..*.*.*.*.**.**.
+optimization finished, #iter = 1910
+Objective value = -40.362121
+nSV = 192
+.....................................................................................................................................................................*.*..*.*.**.**.*.**.*.*
+optimization finished, #iter = 1752
+Objective value = -26.438179
+nSV = 193
+.........................................................................................................................................................................................**...**.*
+optimization finished, #iter = 1891
+Objective value = -30.208030
+nSV = 169
+................................................................................................................................................................**..*
+optimization finished, #iter = 1623
+Objective value = -20.230143
+nSV = 171
+......................................................................................................................................................................*....*.*.***.*.*
+optimization finished, #iter = 1743
+Objective value = -40.553448
+nSV = 219
+.............................................................................................................................................................*
+optimization finished, #iter = 1575
+Objective value = -24.336553
+nSV = 186
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/watch.xml
+watch.v 100
+.*
+optimization finished, #iter = 15
+Objective value = -0.353114
+nSV = 96
+*.
+optimization finished, #iter = 10
+Objective value = -0.050298
+nSV = 46
+.*
+optimization finished, #iter = 15
+Objective value = -0.117368
+nSV = 45
+.*
+optimization finished, #iter = 15
+Objective value = -0.237909
+nSV = 79
+*.
+optimization finished, #iter = 10
+Objective value = -0.056245
+nSV = 35
+*.
+optimization finished, #iter = 10
+Objective value = -0.075201
+nSV = 40
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/expect.xml
+expect.v 156
+............................................................................................................................................................................**...*.*
+optimization finished, #iter = 1762
+Objective value = -42.698930
+nSV = 171
+....................................................................................................................................................................*.......*....*.**.***
+optimization finished, #iter = 1776
+Objective value = -42.647427
+nSV = 168
+*
+optimization finished, #iter = 8
+Objective value = -0.032747
+nSV = 26
+.*
+optimization finished, #iter = 13
+Objective value = -0.039773
+nSV = 35
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/provide.xml
+provide.v 140
+.*
+optimization finished, #iter = 17
+Objective value = -0.303771
+nSV = 102
+.*
+optimization finished, #iter = 17
+Objective value = -0.140090
+nSV = 53
+.*
+optimization finished, #iter = 18
+Objective value = -0.171603
+nSV = 80
+.*
+optimization finished, #iter = 18
+Objective value = -0.116105
+nSV = 67
+.*
+optimization finished, #iter = 11
+Objective value = -0.030917
+nSV = 39
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/hear.xml
+hear.v 63
+.*
+optimization finished, #iter = 17
+Objective value = -0.350690
+nSV = 61
+.*
+optimization finished, #iter = 14
+Objective value = -0.040221
+nSV = 24
+.*
+optimization finished, #iter = 19
+Objective value = -0.332764
+nSV = 61
+.*
+optimization finished, #iter = 11
+Objective value = -0.077954
+nSV = 33
+.*
+optimization finished, #iter = 17
+Objective value = -0.072700
+nSV = 46
+.*
+optimization finished, #iter = 13
+Objective value = -0.051937
+nSV = 20
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/ask.xml
+ask.v 264
+................................................................................................................................................................................*.**..*.****.**.***.*
+optimization finished, #iter = 1834
+Objective value = -26.353376
+nSV = 175
+.........................................................................................................................................................................*...*.*.*.*.*
+optimization finished, #iter = 1769
+Objective value = -32.677773
+nSV = 237
+.................................................................................................................................................................*......*.*.*.*.*.*
+optimization finished, #iter = 1725
+Objective value = -14.382465
+nSV = 147
+.....................................................................................................................................................................................................*.*...*..*.*.*.****
+optimization finished, #iter = 2069
+Objective value = -78.183666
+nSV = 275
+...........................................................................................................................................................................................*............*...**.*.**.*
+optimization finished, #iter = 2055
+Objective value = -67.983556
+nSV = 273
+..........................................................................*.*.*.***
+optimization finished, #iter = 777
+Objective value = -13.250945
+nSV = 116
+.*
+optimization finished, #iter = 14
+Objective value = -0.238430
+nSV = 111
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/important.xml
+important.a 36
+...........................................................................................................................................*.
+optimization finished, #iter = 1402
+Objective value = -16.781495
+nSV = 47
+........................................................................................................................................*..*.**.**.*.***
+optimization finished, #iter = 1427
+Objective value = -10.781154
+nSV = 44
+......................................................................................................................................*.
+optimization finished, #iter = 1358
+Objective value = -12.782701
+nSV = 47
+...........................................................................................................................*......**.**.**..*
+optimization finished, #iter = 1334
+Objective value = -2.046190
+nSV = 39
+...................................................................................*..*.***.*
+optimization finished, #iter = 876
+Objective value = -2.005287
+nSV = 18
+.*
+optimization finished, #iter = 11
+Objective value = -0.025054
+nSV = 22
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/write.xml
+write.v 45
+.*
+optimization finished, #iter = 13
+Objective value = -0.097535
+nSV = 39
+.*
+optimization finished, #iter = 12
+Objective value = -0.062725
+nSV = 29
+.*
+optimization finished, #iter = 11
+Objective value = -0.123452
+nSV = 39
+..*
+optimization finished, #iter = 23
+Objective value = -0.160606
+nSV = 42
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/express.xml
+express.v 112
+.......................................................................................................................................*..*.*
+optimization finished, #iter = 1382
+Objective value = -2.344861
+nSV = 104
+..*
+optimization finished, #iter = 25
+Objective value = -0.448606
+nSV = 108
+......................................................................................................................................*.*.*.**.***..*.**.**.*
+optimization finished, #iter = 1432
+Objective value = -2.150760
+nSV = 82
+.*
+optimization finished, #iter = 12
+Objective value = -0.048692
+nSV = 40
+*
+optimization finished, #iter = 9
+Objective value = -0.018739
+nSV = 27
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/operate.xml
+operate.v 35
+.*
+optimization finished, #iter = 16
+Objective value = -0.127602
+nSV = 33
+.*
+optimization finished, #iter = 13
+Objective value = -0.082387
+nSV = 30
+.*
+optimization finished, #iter = 15
+Objective value = -0.132380
+nSV = 33
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/activate.xml
+activate.v 235
+.......................................................................................................................................................................................................................................................*.*...*.*.*
+optimization finished, #iter = 2538
+Objective value = -94.672523
+nSV = 260
+.......................................................................................................................................................................................................................................................*..***
+optimization finished, #iter = 2499
+Objective value = -42.330761
+nSV = 181
+.................................................................................................................................................................................................................................*.**
+optimization finished, #iter = 2268
+Objective value = -56.353594
+nSV = 213
+.*
+optimization finished, #iter = 15
+Objective value = -0.169914
+nSV = 85
+................................................................................................................................................*....*.*....**.*..**
+optimization finished, #iter = 1564
+Objective value = -4.018446
+nSV = 49
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/lose.xml
+lose.v 73
+.*
+optimization finished, #iter = 17
+Objective value = -0.149932
+nSV = 61
+.*
+optimization finished, #iter = 18
+Objective value = -0.299588
+nSV = 72
+.*
+optimization finished, #iter = 13
+Objective value = -0.166334
+nSV = 64
+.*
+optimization finished, #iter = 13
+Objective value = -0.119688
+nSV = 49
+*
+optimization finished, #iter = 9
+Objective value = -0.032560
+nSV = 18
+*.
+optimization finished, #iter = 10
+Objective value = -0.044928
+nSV = 31
+.*
+optimization finished, #iter = 14
+Objective value = -0.077480
+nSV = 42
+*
+optimization finished, #iter = 8
+Objective value = -0.024924
+nSV = 13
+*.
+optimization finished, #iter = 10
+Objective value = -0.050927
+nSV = 31
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/note.xml
+note.v 133
+.......................................................................................................................................................................*...*.**.*.*.*..*
+optimization finished, #iter = 1761
+Objective value = -4.145808
+nSV = 83
+.........................................................................................................................................................................*.**.**
+optimization finished, #iter = 1713
+Objective value = -4.594002
+nSV = 133
+.*.*
+optimization finished, #iter = 21
+Objective value = -0.637251
+nSV = 130
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/sort.xml
+sort.n 191
+...............................................................................................................................................................................*......*
+optimization finished, #iter = 1811
+Objective value = -80.709689
+nSV = 223
+.................................................................................................................................................*.*....***.
+optimization finished, #iter = 1510
+Objective value = -4.318439
+nSV = 162
+..................................................................................................................................................................................*...*.*.*..*.**.**.***
+optimization finished, #iter = 1888
+Objective value = -76.514932
+nSV = 213
+.*
+optimization finished, #iter = 11
+Objective value = -0.071314
+nSV = 64
+.*
+optimization finished, #iter = 14
+Objective value = -0.053414
+nSV = 43
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/plan.xml
+plan.n 172
+...............................................................................................................................................................................................**...*.***...**..**
+optimization finished, #iter = 2005
+Objective value = -36.532300
+nSV = 164
+................................................................................................................................................................................................*..**.*.**.*.
+optimization finished, #iter = 1980
+Objective value = -28.298143
+nSV = 155
+...................................................................................................................................*...**...*
+optimization finished, #iter = 1375
+Objective value = -8.401719
+nSV = 126
+................................................................................................*..*.*.*..*.*
+optimization finished, #iter = 1035
+Objective value = -4.162325
+nSV = 71
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/win.xml
+win.v 80
+*.
+optimization finished, #iter = 10
+Objective value = -0.031962
+nSV = 24
+.*
+optimization finished, #iter = 17
+Objective value = -0.205165
+nSV = 68
+........................................................................................................................................*.*.*.****..*.**.***.****.
+optimization finished, #iter = 1450
+Objective value = -2.066494
+nSV = 40
+.........................................................................................................................................*.*..**.**.*.**
+optimization finished, #iter = 1439
+Objective value = -2.041853
+nSV = 47
+.*
+optimization finished, #iter = 17
+Objective value = -0.308564
+nSV = 76
+.*
+optimization finished, #iter = 18
+Objective value = -0.330964
+nSV = 76
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/audience.xml
+audience.n 204
+.......................................................................................................................................................................................................**.*..*..*.*.**.**.*
+optimization finished, #iter = 2081
+Objective value = -56.444081
+nSV = 197
+......................................................................................................................................................................................................*...*
+optimization finished, #iter = 2014
+Objective value = -58.466432
+nSV = 207
+..............................................................................................................................................**..*
+optimization finished, #iter = 1445
+Objective value = -10.068282
+nSV = 92
+.*
+optimization finished, #iter = 12
+Objective value = -0.070707
+nSV = 89
+......................................................................................................................................................*.....**..*.**.**.**.**
+optimization finished, #iter = 1614
+Objective value = -4.013808
+nSV = 56
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/mean.xml
+mean.v 82
+.*
+optimization finished, #iter = 15
+Objective value = -0.277346
+nSV = 66
+*
+optimization finished, #iter = 9
+Objective value = -0.032127
+nSV = 27
+.*
+optimization finished, #iter = 14
+Objective value = -0.200288
+nSV = 55
+.*
+optimization finished, #iter = 15
+Objective value = -0.081195
+nSV = 44
+.*
+optimization finished, #iter = 12
+Objective value = -0.077034
+nSV = 40
+.*
+optimization finished, #iter = 15
+Objective value = -0.058536
+nSV = 43
+.*
+optimization finished, #iter = 15
+Objective value = -0.071654
+nSV = 30
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/smell.xml
+smell.v 112
+........................................................................................................................................*........*.**..**.*.*
+optimization finished, #iter = 1491
+Objective value = -4.135151
+nSV = 68
+....................................................................................................................................*........*..*.**.*..****.*.**.**
+optimization finished, #iter = 1497
+Objective value = -4.051414
+nSV = 39
+.....................................................................................................................................................*.......*.**..*
+optimization finished, #iter = 1591
+Objective value = -6.439579
+nSV = 108
+.................................................................................................................................*..*.*.....**.*.**..*.**.*
+optimization finished, #iter = 1432
+Objective value = -2.430488
+nSV = 104
+..........................................................................................................................................................*..*.*.*.**
+optimization finished, #iter = 1594
+Objective value = -4.100279
+nSV = 60
+.*
+optimization finished, #iter = 12
+Objective value = -0.103652
+nSV = 29
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/arm.xml
+arm.n 275
+......................................................................................................................................*.**.*..**.*
+optimization finished, #iter = 1391
+Objective value = -8.507998
+nSV = 177
+.*
+optimization finished, #iter = 17
+Objective value = -0.264005
+nSV = 113
+.*
+optimization finished, #iter = 18
+Objective value = -0.118876
+nSV = 91
+.*
+optimization finished, #iter = 13
+Objective value = -0.121885
+nSV = 82
+................................................................................................................................*.........*.*.*.*
+optimization finished, #iter = 1402
+Objective value = -8.155043
+nSV = 113
+.*
+optimization finished, #iter = 12
+Objective value = -0.076423
+nSV = 63
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/performance.xml
+performance.n 175
+........................................................................................................................................................................*.*.**..*.*
+optimization finished, #iter = 1734
+Objective value = -22.537204
+nSV = 169
+......................................................................................................................................................................*.**..**.*.*
+optimization finished, #iter = 1718
+Objective value = -20.407238
+nSV = 160
+...........................................................................................................................................*.*.*.*..*
+optimization finished, #iter = 1445
+Objective value = -8.486881
+nSV = 161
+.....................................................................*.......**
+optimization finished, #iter = 769
+Objective value = -2.102149
+nSV = 77
+........................................................................................................................................*...**.*..*.*.**
+optimization finished, #iter = 1445
+Objective value = -6.288337
+nSV = 136
+..............................................................................................................................................*....**.**.*
+optimization finished, #iter = 1483
+Objective value = -10.238626
+nSV = 129
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/judgment.xml
+judgment.n 63
+.*
+optimization finished, #iter = 15
+Objective value = -0.258128
+nSV = 59
+.*
+optimization finished, #iter = 13
+Objective value = -0.095411
+nSV = 51
+.*.
+optimization finished, #iter = 20
+Objective value = -0.187545
+nSV = 57
+*.
+optimization finished, #iter = 10
+Objective value = -0.074114
+nSV = 43
+*.*
+optimization finished, #iter = 12
+Objective value = -0.074843
+nSV = 41
+.*
+optimization finished, #iter = 16
+Objective value = -0.180606
+nSV = 55
+*
+optimization finished, #iter = 8
+Objective value = -0.030225
+nSV = 13
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/solid.xml
+solid.a 58
+.*
+optimization finished, #iter = 13
+Objective value = -0.119632
+nSV = 59
+...................................................................................................................................................................*....*.....*.*.*.*
+optimization finished, #iter = 1753
+Objective value = -6.128501
+nSV = 60
+.................................................................................................................................*...
+optimization finished, #iter = 1321
+Objective value = -4.161484
+nSV = 62
+.*
+optimization finished, #iter = 12
+Objective value = -0.082320
+nSV = 43
+..............................................................................................................................................................*......*.*.*.....*.**..**.**.**.
+optimization finished, #iter = 1770
+Objective value = -4.080139
+nSV = 50
+.*
+optimization finished, #iter = 12
+Objective value = -0.097540
+nSV = 49
+.*
+optimization finished, #iter = 14
+Objective value = -0.065239
+nSV = 44
+*.
+optimization finished, #iter = 10
+Objective value = -0.023276
+nSV = 27
+........................................................................................................................*.*...*...*.**.***.*.*.*.**.****
+optimization finished, #iter = 1348
+Objective value = -2.028891
+nSV = 36
+....................................................................................*...**.**.**.***
+optimization finished, #iter = 909
+Objective value = -2.070265
+nSV = 39
+..............................................................................*.....*...*...*.***
+optimization finished, #iter = 908
+Objective value = -2.025831
+nSV = 26
+.*
+optimization finished, #iter = 11
+Objective value = -0.057910
+nSV = 41
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/wash.xml
+wash.v 66
+.*
+optimization finished, #iter = 16
+Objective value = -0.063178
+nSV = 33
+.*
+optimization finished, #iter = 15
+Objective value = -0.214852
+nSV = 54
+..*
+optimization finished, #iter = 21
+Objective value = -0.392492
+nSV = 65
+.*
+optimization finished, #iter = 12
+Objective value = -0.041126
+nSV = 23
+.*
+optimization finished, #iter = 16
+Objective value = -0.073974
+nSV = 33
+.*
+optimization finished, #iter = 16
+Objective value = -0.071170
+nSV = 33
+.*
+optimization finished, #iter = 14
+Objective value = -0.109930
+nSV = 25
+.*
+optimization finished, #iter = 13
+Objective value = -0.060900
+nSV = 31
+*
+optimization finished, #iter = 9
+Objective value = -0.042214
+nSV = 26
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/remain.xml
+remain.v 141
+.*
+optimization finished, #iter = 16
+Objective value = -0.273293
+nSV = 100
+.*
+optimization finished, #iter = 15
+Objective value = -0.361244
+nSV = 109
+.*
+optimization finished, #iter = 13
+Objective value = -0.080532
+nSV = 56
+*
+optimization finished, #iter = 9
+Objective value = -0.067708
+nSV = 30
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/begin.xml
+begin.v 186
+........................................................................**.*.***.**
+optimization finished, #iter = 759
+Objective value = -2.117861
+nSV = 82
+.......................................................................................................................................................................................................*....**
+optimization finished, #iter = 2034
+Objective value = -40.878610
+nSV = 198
+...........................................................................................................................................................*.*..*.*
+optimization finished, #iter = 1594
+Objective value = -14.442246
+nSV = 140
+....................................................................................................................................................................................................*..*.**.*
+optimization finished, #iter = 2004
+Objective value = -38.708522
+nSV = 191
+...................................................................................................................*.*.*.**..*.*
+optimization finished, #iter = 1213
+Objective value = -6.437987
+nSV = 113
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/bank.xml
+bank.n 271
+.................................................................................................................................................................................**.****.
+optimization finished, #iter = 1790
+Objective value = -18.499653
+nSV = 178
+......................................................................................................................................................................*.***..**.**
+optimization finished, #iter = 1709
+Objective value = -2.195303
+nSV = 114
+.*
+optimization finished, #iter = 17
+Objective value = -0.120619
+nSV = 92
+.............................................................................................................................................................*..*..*..*.*
+optimization finished, #iter = 1642
+Objective value = -6.405143
+nSV = 159
+.*
+optimization finished, #iter = 15
+Objective value = -0.104056
+nSV = 90
+...................................................................................................................................................................................*.**.**.**
+optimization finished, #iter = 1829
+Objective value = -18.326391
+nSV = 154
+...........................................................................*..*
+optimization finished, #iter = 775
+Objective value = -2.092738
+nSV = 84
+.*
+optimization finished, #iter = 11
+Objective value = -0.048275
+nSV = 72
+................................................................................*.***
+optimization finished, #iter = 818
+Objective value = -2.008348
+nSV = 34
+*
+optimization finished, #iter = 9
+Objective value = -0.030939
+nSV = 38
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/hot.xml
+hot.a 87
+.*
+optimization finished, #iter = 12
+Objective value = -0.048369
+nSV = 41
+.*
+optimization finished, #iter = 19
+Objective value = -0.118863
+nSV = 40
+.........................................................................................................................................................................................*.*.*...*.*.**.*
+optimization finished, #iter = 1934
+Objective value = -4.296276
+nSV = 83
+...................................................................................................................................................................................*........*.*.**.*.*.*.*.**
+optimization finished, #iter = 1947
+Objective value = -4.059607
+nSV = 43
+.**
+optimization finished, #iter = 14
+Objective value = -0.082649
+nSV = 49
+*
+optimization finished, #iter = 8
+Objective value = -0.026134
+nSV = 19
+.*
+optimization finished, #iter = 16
+Objective value = -0.054213
+nSV = 38
+.*
+optimization finished, #iter = 12
+Objective value = -0.043454
+nSV = 28
+*
+optimization finished, #iter = 8
+Objective value = -0.024999
+nSV = 23
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/simple.xml
+simple.a 36
+.
+optimization finished, #iter = 11
+Objective value = -0.158765
+nSV = 39
+...........................................................................................................................................................................*......
+optimization finished, #iter = 1773
+Objective value = -8.122529
+nSV = 40
+........................................................................................................................................................................*........*.*..*.*...**
+optimization finished, #iter = 1836
+Objective value = -8.057293
+nSV = 37
+.*
+optimization finished, #iter = 12
+Objective value = -0.083163
+nSV = 31
+.*
+optimization finished, #iter = 11
+Objective value = -0.031826
+nSV = 18
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/appear.xml
+appear.v 267
+...............................................................................................................................................................................*.*..*..*..**
+optimization finished, #iter = 1829
+Objective value = -4.559249
+nSV = 193
+.......................................................................................................................................................................................*.*.*..**..**.**.*
+optimization finished, #iter = 1912
+Objective value = -26.657673
+nSV = 211
+............................................................................................................................................................................*.**.*
+optimization finished, #iter = 1746
+Objective value = -20.355292
+nSV = 157
+......................................................................................*...*.*..*..**
+optimization finished, #iter = 947
+Objective value = -2.006354
+nSV = 19
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/produce.xml
+produce.v 187
+........................................................................................................................................................*.....*.**.*.***
+optimization finished, #iter = 1606
+Objective value = -4.528032
+nSV = 155
+..............................................................................................................................................................**.*...**.**
+optimization finished, #iter = 1635
+Objective value = -4.089792
+nSV = 91
+.*
+optimization finished, #iter = 17
+Objective value = -0.504792
+nSV = 150
+.*
+optimization finished, #iter = 16
+Objective value = -0.177934
+nSV = 99
+.*
+optimization finished, #iter = 14
+Objective value = -0.056897
+nSV = 52
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/play.xml
+play.v 109
+.*
+optimization finished, #iter = 13
+Objective value = -0.146804
+nSV = 55
+.*
+optimization finished, #iter = 16
+Objective value = -0.071460
+nSV = 41
+.*
+optimization finished, #iter = 14
+Objective value = -0.225212
+nSV = 75
+*
+optimization finished, #iter = 8
+Objective value = -0.031934
+nSV = 27
+.*
+optimization finished, #iter = 12
+Objective value = -0.115358
+nSV = 60
+.*
+optimization finished, #iter = 17
+Objective value = -0.348073
+nSV = 99
+.*
+optimization finished, #iter = 17
+Objective value = -0.127390
+nSV = 70
+*.
+optimization finished, #iter = 10
+Objective value = -0.067729
+nSV = 36
+.*
+optimization finished, #iter = 14
+Objective value = -0.151926
+nSV = 62
+.*
+optimization finished, #iter = 16
+Objective value = -0.128913
+nSV = 55
+done
+/home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/source.xml
+source.n 66
+......................................................................................................................................................................*..*.*..***..**.*.*.*
+optimization finished, #iter = 1764
+Objective value = -10.277831
+nSV = 72
+..................................................................................................................................................................................*....*.*.**.***.***.*.*
+optimization finished, #iter = 1881
+Objective value = -2.151472
+nSV = 61
+............................................................................................................................................................**.*
+optimization finished, #iter = 1572
+Objective value = -4.096557
+nSV = 47
+...........................................................................................................................................................*..*..*
+optimization finished, #iter = 1591
+Objective value = -2.059886
+nSV = 35
+..................................................................................................................................................................*..............**.*..*
+optimization finished, #iter = 1795
+Objective value = -6.044169
+nSV = 41
+........................................................................................................................................................................*.*..*..*
+optimization finished, #iter = 1732
+Objective value = -10.083861
+nSV = 62
+.....................................................*..*.**.**.*
+optimization finished, #iter = 582
+Objective value = -2.055587
+nSV = 44
+.*
+optimization finished, #iter = 13
+Objective value = -0.096195
+nSV = 55
+done
+21082.77user 4981.64system 5:52:21elapsed 123%CPU (0avgtext+0avgdata 32415844maxresident)k
+466059288inputs+149664outputs (1410major+2052849748minor)pagefaults 0swaps
