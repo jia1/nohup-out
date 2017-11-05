@@ -1,0 +1,304 @@
+Nov 06, 2017 12:38:02 AM net.didion.jwnl.util.MessageLog doLog
+INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@4d405ef7
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/state.xml
+state.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/complete.xml
+complete.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/see.xml
+see.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/space.xml
+space.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/position.xml
+position.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/prove.xml
+prove.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/authority.xml
+authority.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/start.xml
+start.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/approve.xml
+approve.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/examine.xml
+examine.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/allow.xml
+allow.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/receive.xml
+receive.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/promise.xml
+promise.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/claim.xml
+claim.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/order.xml
+order.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/care.xml
+care.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/come.xml
+come.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/bill.xml
+bill.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/move.xml
+move.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/raise.xml
+raise.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/capital.xml
+capital.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/attempt.xml
+attempt.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/base.xml
+base.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/rush.xml
+rush.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/power.xml
+power.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/feel.xml
+feel.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/report.xml
+report.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/people.xml
+people.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/area.xml
+area.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/keep.xml
+keep.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/management.xml
+management.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/remember.xml
+remember.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/system.xml
+system.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/find.xml
+find.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/grant.xml
+grant.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/do.xml
+do.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/propose.xml
+propose.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/rate.xml
+rate.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/work.xml
+work.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/contribute.xml
+contribute.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/president.xml
+president.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/kill.xml
+kill.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/disclose.xml
+disclose.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/part.xml
+part.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/believe.xml
+believe.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/enjoy.xml
+enjoy.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/go.xml
+go.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/defense.xml
+defense.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/regard.xml
+regard.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/share.xml
+share.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/describe.xml
+describe.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/exist.xml
+exist.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/lead.xml
+lead.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/value.xml
+value.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/negotiate.xml
+negotiate.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/complain.xml
+complain.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/policy.xml
+policy.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/hour.xml
+hour.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/improve.xml
+improve.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/maintain.xml
+maintain.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/cause.xml
+cause.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/join.xml
+join.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/purchase.xml
+purchase.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/occur.xml
+occur.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/network.xml
+network.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/job.xml
+job.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/chance.xml
+chance.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/ask.xml
+ask.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/condition.xml
+condition.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/affect.xml
+affect.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/explain.xml
+explain.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/need.xml
+need.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/estimate.xml
+estimate.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/express.xml
+express.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/build.xml
+build.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/effect.xml
+effect.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/hope.xml
+hope.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/recall.xml
+recall.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/drug.xml
+drug.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/carrier.xml
+carrier.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/plant.xml
+plant.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/set.xml
+set.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/prepare.xml
+prepare.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/fix.xml
+fix.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/buy.xml
+buy.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/turn.xml
+turn.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/avoid.xml
+avoid.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/remove.xml
+remove.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/begin.xml
+begin.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/hold.xml
+hold.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/point.xml
+point.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/exchange.xml
+exchange.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/announce.xml
+announce.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/end.xml
+end.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/say.xml
+say.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/replace.xml
+replace.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/produce.xml
+produce.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/future.xml
+future.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/source.xml
+source.n
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/development.xml
+development.n
+writing results
+797.74user 183.68system 12:11.20elapsed 134%CPU (0avgtext+0avgdata 11311160maxresident)k
+43928inputs+3072outputs (7major+77865037minor)pagefaults 0swaps

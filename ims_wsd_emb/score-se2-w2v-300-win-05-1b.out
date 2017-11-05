@@ -1,0 +1,5 @@
+score for [fin.result] using key [fin.key]:
+precision: 0.702 (3040.00 correct of 4328.00 attempted)
+recall: 0.702 (3040.00 correct of 4328.00 in total)
+attempted: 1.000 (4328.00 attempted of 4328.00 in total)
+
