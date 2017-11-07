@@ -4,3 +4,9 @@ testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/state
 state.n
 writing results
 testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/complete.xml
+complete.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/see.xml
+see.v
+writing results
+testing /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/test/space.xml
