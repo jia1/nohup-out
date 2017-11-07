@@ -1,4 +1,4 @@
-Nov 05, 2017 9:13:38 PM net.didion.jwnl.util.MessageLog doLog
+Nov 07, 2017 2:26:54 PM net.didion.jwnl.util.MessageLog doLog
 INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@c4437c4
 /home/limjiayee/ims_wsd_emb/../se3/1-lexical-sample/processed/train/difficulty.xml
 difficulty.n 47
@@ -1547,5 +1547,5 @@ optimization finished, #iter = 12
 Objective value = -0.107862
 nSV = 53
 done
-580.84user 156.75system 13:41.39elapsed 89%CPU (0avgtext+0avgdata 11415844maxresident)k
-39980184inputs+26536outputs (582major+83704051minor)pagefaults 0swaps
+503.19user 60.90system 7:52.51elapsed 119%CPU (0avgtext+0avgdata 11288588maxresident)k
+11360inputs+23576outputs (0major+1127030minor)pagefaults 0swaps
