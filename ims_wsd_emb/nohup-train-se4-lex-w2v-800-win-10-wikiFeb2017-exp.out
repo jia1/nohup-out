@@ -1,4 +1,4 @@
-Nov 06, 2017 2:02:26 AM net.didion.jwnl.util.MessageLog doLog
+Nov 07, 2017 2:34:10 AM net.didion.jwnl.util.MessageLog doLog
 INFO: Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@c4437c4
 /home/limjiayee/ims_wsd_emb/../se4/1-lexical-sample/processed/train/state.xml
 state.n 617
@@ -1576,5 +1576,5 @@ optimization finished, #iter = 14
 Objective value = -0.284303
 nSV = 112
 done
-40319.99user 10091.82system 18:52:05elapsed 74%CPU (0avgtext+0avgdata 32512752maxresident)k
-1566351856inputs+422688outputs (6713major+2863027529minor)pagefaults 0swaps
+34571.44user 4138.88system 8:34:21elapsed 125%CPU (0avgtext+0avgdata 32403908maxresident)k
+314683736inputs+359408outputs (12136major+790854988minor)pagefaults 0swaps
